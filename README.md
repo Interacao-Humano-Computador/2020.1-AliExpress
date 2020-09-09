@@ -30,5 +30,5 @@ Matrícula| Membro | GitHub | E-mail
   
 <br/>
 <p align="center">
-  <img src="https://lh3.googleusercontent.com/proxy/F0cDoHXYLu_vUhOY0TH7uJp8W8tLefExOsDdGqyadxivclO4uWC3lnEOl07wk-DURelk5emL9WXNm0Ap-u7-wr3AML2NiO4_vaJj" alt="Logo FGA" width="20%"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR9G9g2bHc1SWINdvV5RNx9YT_uOEHgjt-Kcg&usqp=CAU" alt="Logo FGA" width="20%"/>
 </p>

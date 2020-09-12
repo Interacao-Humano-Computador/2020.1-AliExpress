@@ -10,7 +10,7 @@ A etapa 0 do nosso projeto teve como finalidade organizar e predefinir as etapas
 
 * [Ferramentas](/pages/planning/teamTools/teamTools)
 
-<!-- * [Cronograma](/pages/planning/schedule/schedule) -->
+* [Cronograma](/pages/planning/schedule/schedule)
 
 ---
 |Data|Versão|Descrição|Autor|

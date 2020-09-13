@@ -12,7 +12,10 @@ A etapa 0 do nosso projeto teve como finalidade organizar e predefinir as etapas
 
 * [Cronograma](/pages/planning/schedule/schedule)
 
+* [Processo de Design](/pages/planning/designProcess/designProcess)
+
 ---
 |Data|Versão|Descrição|Autor|
 |:-:|:-:|:-:|:-:|
 |06/09/2020|0.1|Criação do documento planejamento do projeto|Matheus Amaral Moreira|
+|13/09/2020|0.2|Criação do documento de processo de design do projeto|Pedro Vítor de Salles Cella|

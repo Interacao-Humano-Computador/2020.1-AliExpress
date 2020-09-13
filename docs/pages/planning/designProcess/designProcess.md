@@ -12,6 +12,8 @@ O motivo de ter sido escolhido esse processo se dá pela forma como é dada a so
 
 Na análise de requisitos são definidas as metas de usabilidade com base no perfil dos usuários, análise de tarefas, possibilidades e limitações da plataforma em que o sistema será executado e princípios gerais de design d
 
+### Design, avaliação e desenvolvimento
+
 A fase de design, avaliação e desenvolvimento tem por objetivo conceber uma solução de IHC que atenda às metas de usabilidade estabelecidas na fase anterior. Esse processo propõe projetar a solução de IHC em três níveis de detalhes. No primeiro nível, o designer precisa realizar a reengenharia do trabalho, repensando a execução das tarefas para alcançar os objetivos dos usuários, elaborar alternativas de solução do modelo conceitual, elaborar protótipos de baixa fidelidade e avaliar tais protótipos. No segundo nível, o designer deve estabelecer padrões de design de IHC para a solução sendo concebida, construir protótipos de média fidelidade de acordo com esses padrões e avaliá-los. No terceiro nivel, o designer realiza o projeto de detalhamento da interface, com alta fidelidade, para ser implementado.
 
 ### Instalação

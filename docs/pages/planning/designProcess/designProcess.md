@@ -10,7 +10,7 @@ O motivo de ter sido escolhido esse processo se dá pela forma como é dada a so
 
 ### Análise de Requisitos
 
-Na análise de requisitos são definidas as metas de usabilidade com base no perfil dos usuários, análise de tarefas, possibilidades e limitações da plataforma em que o sistema será executado e princípios gerais de design d
+Na análise de requisitos são definidas as metas de usabilidade com base no perfil dos usuários, análise de tarefas, possibilidades e limitações da plataforma em que o sistema será executado e princípios gerais de design de IHC.
 
 ### Design, avaliação e desenvolvimento
 

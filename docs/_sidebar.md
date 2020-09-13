@@ -6,11 +6,9 @@
   * [Ferramentas](/pages/planning/teamTools/teamTools)
   * [Cronograma](/pages/planning/schedule/schedule)
   * [Processo de Design](/pages/planning/designProcess/designProcess)
+* [Politica](/pages/policy/policy)
 <!-- * [Pré-Rastreabilidade]() -->
 <!-- * [Elicitação]() -->
-
-* [Politica](/pages/policy/policy)
-
 ---
 
 * Links

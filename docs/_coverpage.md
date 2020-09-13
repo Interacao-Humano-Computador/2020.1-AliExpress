@@ -2,6 +2,3 @@
 
 [Começar](./README.md)
 [GitHub](https://github.com/Interacao-Humano-Computador/2020.1-AliExpress)
-
-<!-- background color -->
-![color](#FFFF)

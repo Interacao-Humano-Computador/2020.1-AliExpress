@@ -4,7 +4,7 @@ O processo de design indica o método de desenvolver um problema, mais especific
 
 ## Ciclo de Mayhew
 
-<img align="center" src="./Images/ciclo.png" alt="Ciclo de Mayhew"/>
+![Ciclo de Mayhew](/Images/ciclo.png 'align: center')
 
 O motivo de ter sido escolhido esse processo se dá pela forma como é dada a solução, através de uma orientação feita em 3 partes. 
 

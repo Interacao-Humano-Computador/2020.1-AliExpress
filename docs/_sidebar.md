@@ -5,7 +5,7 @@
   * [Metodologia](/pages/planning/Methodology/Methodology)
   * [Ferramentas](/pages/planning/teamTools/teamTools)
   * [Cronograma](/pages/planning/schedule/schedule)
-
+  * [Processo de Design](/pages/planning/designProcess/designProcess)
 <!-- * [Pré-Rastreabilidade]() -->
 <!-- * [Elicitação]() -->
 

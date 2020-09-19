@@ -16,5 +16,6 @@
 ---
 
 * Links
+* [Apresentações](./pages/presentations/presentations)
 * [Repositório](https://github.com/Interacao-Humano-Computador/2020.1-AliExpress)
 * [Página da AliExpress](https://pt.aliexpress.com/)

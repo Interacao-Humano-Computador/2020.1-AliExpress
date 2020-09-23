@@ -18,7 +18,7 @@ Data: 01/09/2020
 
 ## Conclusões
 
-Essa primeira reunião ocorreu em conjunto com a reunião para requisitos pois inicialmente ambas matérias precisavam de definir qual site/app o grupo iria analisar. Cada integrante sugeriu uma lista com os sites e de acordo com critérios escolhidos na hora foi feito uma eliminação até que optarmos pelo AliExpress. Também ficou decidido as metodologias que melhor se encaixariam para o trabalho, tecnologias usadas e atividades a serem desenvolvidas até a primeira entrega do trabalho.
+Essa primeira reunião ocorreu em conjunto com a reunião para requisitos pois inicialmente ambas matérias precisavam de definir qual site/app o grupo iria analisar. Cada integrante sugeriu uma lista com os sites e de acordo com critérios escolhidos na hora foi feito uma eliminação até que optamos pelo AliExpress. Também ficou decidido as metodologias que melhor se encaixariam para o trabalho, tecnologias usadas e atividades a serem desenvolvidas até a primeira entrega do trabalho.
 
 ---
 

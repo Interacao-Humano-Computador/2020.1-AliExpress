@@ -6,7 +6,7 @@ O processo de design indica o método de desenvolver um problema, mais especific
 
 ![Ciclo de Mayhew](/Images/ciclo.png 'align: center')
 
-O motivo de ter sido escolhido esse processo se dá pela forma como é dada a solução, através de uma orientação feita em 3 partes. 
+O motivo de ter sido escolhido esse processo se dá pela forma como é dada a solução, através de uma orientação feita em 3 partes.
 
 ### Análise de Requisitos
 
@@ -19,3 +19,7 @@ A fase de design, avaliação e desenvolvimento tem por objetivo conceber uma so
 ### Instalação
 
 Na fase de instalação, o designer deve coletar opiniões depois de algum tempo de uso. Essas opiniões serão úteis para melhorar o sistema em versões futuras ou até mesmo para apontar a necessidade de desenvolver novos sistemas interativos ainda não previstos.
+
+|Data|Versão|Descrição|Autor|
+|:-:|:-:|:-:|:-:|
+|13/09/2020|0.1|Criação do documento|Pedro Cella|

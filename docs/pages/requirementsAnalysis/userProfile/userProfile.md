@@ -1,6 +1,6 @@
 # Perfil de usuário
 ## Metodologia
-Para traçar as características dos usuários e definir personas a partir das informações observadas, foi realizado dois questionários, um aplicado na comunidade académica da Universidade de Brasiĺia e o outro aplica para o público geral. Dessa forma, ao observar as informações coletadas, conseguimos desenvolver um estudo inicial para a elaboração do perfil do usuário.
+Para traçar as características dos usuários e definir personas a partir das informações observadas, foi realizado dois questionários, um aplicado na comunidade acadêmica da Universidade de Brasiĺia e o outro aplicado para o público geral. Dessa forma, ao observar as informações coletadas, conseguimos desenvolver um estudo inicial para a elaboração do perfil do usuário.
  
 ## Público universitário
 ### Perfil demográfico

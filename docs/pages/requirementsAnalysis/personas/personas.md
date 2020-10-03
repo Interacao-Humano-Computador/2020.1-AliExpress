@@ -24,11 +24,20 @@ As personas são formas de se identificar os usuários de um software, a partir 
 
 |Foto|Informações básicas|
 |:-|:-|
-|![Andersson](./images/andersson.jpg)| <ul><li><b>Nome:</b> Andersson Passos de Souza</li><li><b>Idade:</b> 31 anos</li><li><b>Profissão:</b> Concursado na área de TI</li><li><b>Educação:</b> Ensino Superior Completo</li></ul> |
+|![Andersson](./images/andersson.jpg)| <ul><li><b>Nome:</b> Andersson Passos de Souza</li><li><b>Idade:</b> 34 anos</li><li><b>Profissão:</b> Concursado na área de TI</li><li><b>Educação:</b> Ensino Superior Completo</li></ul> |
 
 **Objetivos:** Andersson é uma pessoa que precisa de facilidade em seu dia-a-dia pois possui um dia muito corrido indo pro trabalho, levando o filho para escola e nas outras atividades esportivas que ele pratica durante a semana. Também prefere coisas para casa que sejam práticas e rápidas para poder ter um tempo para sí
 já que mesmo trabalhando poucas horas no dia, sendo pai solteiro tem que lidar com muitas responsabilidades de casa sozinho. Ele gosta de passar um tempo com o filho e navegar na internet para aprender sobre novas técnologias. Aos finais de semana dar um passeio ao ar livre para relaxar da correria do trabalho.<br>
 **Desafios:** Devido à falta de tempo sua salvação para as compras é poder analisar e comparar preços em sites na internet pois pode fazer isso de qualquer lugar quando sobra uma folga durante seu dia, assim ele economiza tempo de ter que ir até uma loja física. Ele procura sempre por sites seguros com boa reputação no feedback dos usuários e que seja de fácil acesso sem muitas complicações, com layouts intuitivos para poder pesquisar o produto que deseja além de opções variadas bons preços, forma de pagamento favorável e políticas de entregas justas(tempo, valor do frete, etc). Encontrou o AliExpress e inicialmente teve uma boa impressão com os produtos que procurou.
+
+## Persona 4 - Jonas
+
+|Foto|Informações básicas|
+|:-|:-|
+|![Jonas](./images/jonas.jpg)| <ul><li><b>Nome:</b> Jonas Garcia</li><li><b>Idade:</b> 29 anos</li><li><b>Profissão:</b> Analista de dados</li><li><b>Educação:</b> Mestrado completo</li></ul> |
+
+**Objetivos:** Jonas é um analista de dados de uma franquia de fast-food e gosta muito de jogos eletrônicos como forma de lazer em seu tempo livre. Ele possui os mesmos equipamentos de console e periféricos a 3 anos. Ele está em busca de consoles de ultima geração, periféricos e peças do seu computador pessoal, para melhor desempenho e qualidade no seu lazer.<br>
+**Desafios:** Jonas já tem o costume de buscar sempre a tecnologia para ajudar em alguma tarefas cotidianas. Então ao invés de sair de casa e ir pesquisar valores e qualidade de equipamentos em lojas físicas, ele optou por fazer isso pela a internet do conforto da sua casa. Ele se encontra com o site do AliExpress que faz exatamente o que ele busca, tendo interface para pesquisar os valores e as expecificações da oferta.
 
 ---
 
@@ -37,4 +46,4 @@ já que mesmo trabalhando poucas horas no dia, sendo pai solteiro tem que lidar 
 |Data|Versão|Descrição|Autor|
 |:-:|:-:|:-:|:-:|
 |03/10/2020|0.1|Criação do documento| Pedro Vítor de Salles Cella|
-|03/10/2020|0.2|Adição de Personas| Ailamar Alves Guimarães|
+|03/10/2020|0.2|Adição de Personas| Ailamar Alves Guimarães, Matheus Amaral Moreira|

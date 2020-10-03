@@ -10,15 +10,15 @@ A análise de tarefas consiste em compreender sobre o trabalho dos usuários, ou
 
 ### Fluxo de Login
 
-![Fluxo de Login](./images/v0.2AT/LoginPath.png ':size=50%')
+![Fluxo de Login](./images/v0.2AT/LoginPath.svg ':size=50%')
 
 ### Fluxo de Compra
 
-![Fluxo de compra](images/v0.2AT/BuyPath.png ':size=50%')
+![Fluxo de compra](images/v0.2AT/BuyPath.svg ':size=50%')
 
 ### Fluxo de Venda
 
-![Fluxo de venda](images/v0.2AT/SellPath.png ':size=50%')
+![Fluxo de venda](images/v0.2AT/SellPath.svg ':size=50%')
 
 
 |Data|Versão|Descrição|Autor|

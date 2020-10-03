@@ -5,6 +5,7 @@
 * [Processo de Design](/pages/planning/designProcess/designProcess)
 * Análise de requisitos
   * [Perfil de usuário](/pages/requirementsAnalysis/userProfile/userProfile)
+  * [Personas](/pages/requirementsAnalysis/personas/personas)
 ---
 
 * Links

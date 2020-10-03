@@ -1,6 +1,6 @@
 # Personas
 ## Metodologia
-As personas são formas de se identificar os usuários de um software, a partir da análise de perfil feita é possível desenvolver personagens que devem atuar como o público a qual seu software se direcionará, dessa forma são analisados possíveis problemas que eles poderão no uso, e dessa forma identificar as soluções.
+As personas são formas de se identificar os usuários de um software, a partir da análise de perfil feita é possível desenvolver personagens que devem atuar como o público a qual seu software se direcionará, dessa forma são analisados possíveis problemas que eles poderão ter no uso, identificando possíveis soluções.
 
 ## Persona 1 - Ricardo
 
@@ -26,10 +26,13 @@ As personas são formas de se identificar os usuários de um software, a partir 
 |:-|:-|
 |![Andersson](./images/andersson.jpg)| <ul><li><b>Nome:</b> Andersson Passos de Souza</li><li><b>Idade:</b> 31 anos</li><li><b>Profissão:</b> Concursado na área de TI</li><li><b>Educação:</b> Ensino Superior Completo</li></ul> |
 
-**Objetivos:** Andersson é uma pessoa que precisa de facilidade em seu dia-a-dia pois possui um dia muito corrido indo pro trabalho, levando o filho para escola e nas outras atividades esportivas que ele pratica durante a semana. Também prefere coisas para casa que sejam práticas e rápidas para poder ter um tempo pra sí
-já que mesmo trabalhando poucas horas no dia, sendo pai solteiro tem que lidar com muitas responsabilidades de casa sozinho. Ele gosta de passar um tempo com o filho e navegar na internet. Aos finais de semana dar um passeio ao ar livre para relaxar da correria do trabalho.<br>
-**Desafios:** Devido à falta de tempo sua salvação para as compras é poder analisar e comparar preços em sites na internet pois pode fazer isso de qualquer lugar quando sobra uma folga durante seu dia, assim ele economiza tempo de ter que ir até uma loja física. Ele procura sempre por sites seguros com boa reputação no feedback dos usuários e que seja de fácil acesso sem muitas complicações, com layouts intuitivos para poder pesquisar o produto que deseja além de opções variadas bons preços, forma de pagamento favorável e políticas de entregas justas(tempo, valor do frete, etc). 
+**Objetivos:** Andersson é uma pessoa que precisa de facilidade em seu dia-a-dia pois possui um dia muito corrido indo pro trabalho, levando o filho para escola e nas outras atividades esportivas que ele pratica durante a semana. Também prefere coisas para casa que sejam práticas e rápidas para poder ter um tempo para sí
+já que mesmo trabalhando poucas horas no dia, sendo pai solteiro tem que lidar com muitas responsabilidades de casa sozinho. Ele gosta de passar um tempo com o filho e navegar na internet para aprender sobre novas técnologias. Aos finais de semana dar um passeio ao ar livre para relaxar da correria do trabalho.<br>
+**Desafios:** Devido à falta de tempo sua salvação para as compras é poder analisar e comparar preços em sites na internet pois pode fazer isso de qualquer lugar quando sobra uma folga durante seu dia, assim ele economiza tempo de ter que ir até uma loja física. Ele procura sempre por sites seguros com boa reputação no feedback dos usuários e que seja de fácil acesso sem muitas complicações, com layouts intuitivos para poder pesquisar o produto que deseja além de opções variadas bons preços, forma de pagamento favorável e políticas de entregas justas(tempo, valor do frete, etc). Encontrou o AliExpress e inicialmente teve uma boa impressão com os produtos que procurou.
 
+---
+
+### Versionamento
 
 |Data|Versão|Descrição|Autor|
 |:-:|:-:|:-:|:-:|

@@ -19,3 +19,8 @@ As personas são formas de se identificar os usuários de um software, a partir 
 
 **Objetivos:** Aliyah é uma estudande de Engenharia Eletronica e nesse semestre ela pegou uma materia que tem como o objetivo construir um pequeno robo de luta. Para isso ela quer procurar sites que vendem componentes eletronicos, baratos e que se possa comprar em gandes quantidades.<br>
 **Desafios:** Aliyah é bastante familiarizada em utilizar a aplicativos, sites de compra online. Desde criança teve contato com computadores, smartphones. Então sua interação com o aliexpress deve ocorrer de uma maneira intuitiva, sem algum problema.
+
+
+|Data|Versão|Descrição|Autor|
+|:-:|:-:|:-:|:-:|
+|03/10/2020|0.1|Criação do documento| Pedro Vítor de Salles Cella|

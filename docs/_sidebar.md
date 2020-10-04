@@ -19,5 +19,4 @@
   - [Sprint 3](/pages/sprints/sprint3)
   - [Sprint 4](/pages/sprints/sprint4)
 * [Apresentações](./pages/presentations/presentations)
-* [Analise de tarefas](./pages/requirementsAnalysis/taskAnalysis/taskAnalysis)
 * [Politica](/pages/policy/policy)

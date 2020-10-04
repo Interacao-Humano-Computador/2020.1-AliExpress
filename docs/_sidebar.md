@@ -6,6 +6,7 @@
 * Análise de requisitos
   * [Perfil de usuário](/pages/requirementsAnalysis/userProfile/userProfile)
   * [Personas](/pages/requirementsAnalysis/personas/personas)
+  * [Análise de tarefas](./pages/requirementsAnalysis/taskAnalysis/taskAnalysis)
 ---
 
 * Links

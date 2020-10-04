@@ -17,7 +17,7 @@ As personas são formas de se identificar os usuários de um software, a partir 
 |:-|:-|
 |![Aliyah](./images/aliyah.jpeg)| <ul><li><b>Nome:</b> Aliyah Gomes</li><li><b>Idade:</b> 21 anos</li><li><b>Profissão:</b> Estudante</li><li><b>Educação:</b> Ensino Superior incompleto</li></ul> |
 
-**Objetivos:** Aliyah é uma estudande de Engenharia Eletronica e nesse semestre ela pegou uma materia que tem como o objetivo construir um pequeno robo de luta. Para isso ela quer procurar sites que vendem componentes eletronicos, baratos e que se possa comprar em gandes quantidades.<br>
+**Objetivos:** Aliyah é uma estudande de Engenharia Eletrônica e nesse semestre ela pegou uma materia que tem como o objetivo construir um pequeno robo de luta. Para isso ela quer procurar sites que vendem componentes eletronicos, baratos e que se possa comprar em grandes quantidades.<br>
 **Desafios:** Aliyah é bastante familiarizada em utilizar a aplicativos, sites de compra online. Desde criança teve contato com computadores, smartphones. Então sua interação com o aliexpress deve ocorrer de uma maneira intuitiva, sem algum problema.
 
 ## Persona 3 - Andersson
@@ -38,6 +38,8 @@ já que mesmo trabalhando poucas horas no dia, sendo pai solteiro tem que lidar 
 
 **Objetivos:** Jonas é um analista de dados de uma franquia de fast-food e gosta muito de jogos eletrônicos como forma de lazer em seu tempo livre. Ele possui os mesmos equipamentos de console e periféricos a 3 anos. Ele está em busca de consoles de ultima geração, periféricos e peças do seu computador pessoal, para melhor desempenho e qualidade no seu lazer.<br>
 **Desafios:** Jonas já tem o costume de buscar sempre a tecnologia para ajudar em alguma tarefas cotidianas. Então ao invés de sair de casa e ir pesquisar valores e qualidade de equipamentos em lojas físicas, ele optou por fazer isso pela a internet do conforto da sua casa. Ele se encontra com o site do AliExpress que faz exatamente o que ele busca, tendo interface para pesquisar os valores e as expecificações da oferta.
+
+ *Imagens meramente ilustrativas.
 
 ---
 

@@ -20,6 +20,7 @@ A análise de tarefas consiste em compreender sobre o trabalho dos usuários, ou
 
 ![Fluxo de venda](images/v0.2AT/SellPath.svg ':size=50%')
 
+### Versionamento
 
 |Data|Versão|Descrição|Autor|
 |:-:|:-:|:-:|:-:|

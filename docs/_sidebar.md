@@ -7,6 +7,7 @@
   * [Perfil de usuário](/pages/requirementsAnalysis/userProfile/userProfile)
   * [Personas](/pages/requirementsAnalysis/personas/personas)
   * [Análise de tarefas](./pages/requirementsAnalysis/taskAnalysis/taskAnalysis)
+  * [Metas de Usabilidade](./pages/requirementsAnalysis/usabilityGoals/usabilityGoals)
 ---
 
 * Links

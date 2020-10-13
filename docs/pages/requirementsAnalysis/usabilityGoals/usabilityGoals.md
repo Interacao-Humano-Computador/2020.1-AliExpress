@@ -19,14 +19,14 @@ A eficácia está presente quando aquilo que se projeta faz ou possui o que se e
 * Alcançar os objetivos desejados durante o uso;
 * Realização de tarefas;
 * Acesso às informações necessárias;
-* Aprendizado sobre o sistema garantido;
+* Aprendizado sobre o sistema garantido.
 
 
 ### Eficiência
 A eficiência está presente quando o projeto apresenta recursos que ajudam a cumprir a tarefa, ou seja, está diretamente ligada à velocidade que um objetivo é alcançado. As condições que podem influenciar diretamente a eficiência de um sistema são:
 
 * o tempo de resposta que o software leva para dar um feedback esperado;
-* uso de recursos para executar a resposta;
+* uso de recursos para executar a resposta.
 
 ### Segurança
 A segurança, neste caso, está relacionada tanto a proteção em si, como a sensação de segurança, basicamente pensar na segurança serve para prevenir erros e reduzir riscos referente a ações drásticas. O importante dentro dessa meta é garantir a segurança do usuário sem limitar sua liberdade, afinal caso isso ocorresse acabaria infringindo outra regra, dessa forma o desejável é garantir a segurança durante a execução de tarefas com formas de recuperação de informações ou retorno ao ponto anterior.
@@ -61,8 +61,9 @@ A memorização está relacionada a capacidade do usuário lembrar como utilizar
 ### Versionamento
 
 |Data|Versão|Descrição|Autor|
-|:-:|:-:|:-:|:-:|
+|:--:|:----:|:-------:|:---:|
 |09/10/2020|0.1|Criação do documento| Pedro Vítor de Salles Cella|
+|13/10/2020|0.2|Revisão do documento| Ailamar Alves Guimarães|
 <br>
 
 ### Referências

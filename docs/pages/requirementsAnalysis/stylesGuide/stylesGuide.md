@@ -6,6 +6,9 @@ O guia de estilos é um registro das principais decisões de design tomadas, de 
 
 O Ali Express é um site de varejo, do grupo Alibaba, maior grupo de varejo do mundo, com sede na China e bastante conhecido por vender diversos produtos com preços mais acessíveis. A partir dessas informações, conseguimos desenvolver o guia de estilo para o nosso projeto.
 
+## Metodologia
+
+
 ## Logo
 
 O logo do AliExpress por já ser bastante minimalista e difundido na internet, não sofrerá nenhuma mudança em seu visual
@@ -32,10 +35,21 @@ Os ícones devem possuir um design minimalista, com o fundo vazio e somente cont
 
 Os ícones do material design são um ótimo exemplo.
 
-## Versionamento
+## Conclusão
+
+
+
+--- 
+
+### Versionamento
 
 |Data|Versão|Descrição|Autor|
 |:-:|:-:|:-:|:-:|
 |07/10/2020|0.1|Criação do esqueleto do documento|Danillo Souza|
 |08/10/2020|0.2|Adicionado Tipografia e símbolos|Danillo Souza|
 |13/10/2020|0.3|Pequenas modificações e correções|Danillo Souza|
+|14/10/2020|0.4|Revisão e reorganização de tópicos|Ailamar Alves Guimarães|
+
+### Referências
+
+- 

@@ -16,7 +16,7 @@ O Ali Express é um site de varejo, do grupo Alibaba, maior grupo de varejo do m
 
 ### Logo
 
-O logo do AliExpress por já ser bastante minimalista e difundido na internet, não sofrerá nenhuma mudança em seu visual
+O logo do AliExpress por já ser bastante minimalista e difundido na internet, não sofrerá nenhuma mudança em seu visual.
 
 ![Logo](images/aliExpressLogo.png ':size=175')   ![Logo](images/aliexpressName.png ':size=300')
 
@@ -49,7 +49,7 @@ Os ícones do material design são um ótimo exemplo.
 |07/10/2020|0.1|Criação do esqueleto do documento|Danillo Souza|
 |08/10/2020|0.2|Adicionado Tipografia e símbolos|Danillo Souza|
 |13/10/2020|0.3|Pequenas modificações e correções|Danillo Souza|
-|14/10/2020|0.4|Revisão e reorganização de tópicos|Ailamar Alves Guimarães  
+|14/10/2020|0.4|Revisão e reorganização de tópicos|Ailamar Alves   
 <br/>
 
 ### Referências

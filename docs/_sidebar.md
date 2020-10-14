@@ -7,6 +7,7 @@
   * [Perfil de usuário](/pages/requirementsAnalysis/userProfile/userProfile)
   * [Personas](/pages/requirementsAnalysis/personas/personas)
   * [Análise de tarefas](./pages/requirementsAnalysis/taskAnalysis/taskAnalysis)
+  * [Guia de Estilos](/pages/requirementsAnalysis/stylesGuide/stylesGuide)
   * [Metas de Usabilidade](./pages/requirementsAnalysis/usabilityGoals/usabilityGoals)
   * [Princípios Gerais](./pages/requirementsAnalysis/GeneralPrinciples/GeneralPrinciples)
 ---

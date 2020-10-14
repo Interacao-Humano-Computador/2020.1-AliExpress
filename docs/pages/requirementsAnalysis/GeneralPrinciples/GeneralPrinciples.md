@@ -1,6 +1,7 @@
 # Princípios do projetos
  
 O princípio de projeto tem como objetivo reunir dados sobre o sistema, sobre diversos modos de uso, assim sendo utilizada como mais uma ferramenta para a equipe de design para que possa ser feito a interface na qual o usuário irá interagir. Esses princípios seguem os tópicos:
+ * Correspondência com as expectativas dos usuários
  * Simplicidade nas Estruturas das Tarefas
  * Antecipação das necessidades do usuário
  * Projeto para Erros
@@ -9,10 +10,15 @@ O princípio de projeto tem como objetivo reunir dados sobre o sistema, sobre di
  * Promovendo a eficiência do usuário
  * Consistência e Padronização
  * Equilíbrio entre Controle e Liberdade do Usuário
+
+
+## Correspondência com as expectativas dos usuários
+
+Sempre explorar os mapeamentos naturais, que em outras palavras o design deve obedecer às convenções de linearidade do mundo real, seguindo a ordem lógica entre as ações, tendo início, meio e fim bem definidos.
  
 ## Simplicidade nas Estruturas das Tarefas
  
-A estruturas das tarefas(fluxos), devem ser pequenas e simples. Caso tenha algum tipo de fluxo complexo sem a necessidade dele ser complexo se é necessário a reestruturação dessa estrutura, normalmente utilizando inovações tecnológicas.
+A estruturas das tarefas (fluxos), devem ser pequenas e simples. Caso tenha algum tipo de fluxo complexo sem a necessidade dele ser complexo se é necessário a reestruturação dessa estrutura, normalmente utilizando inovações tecnológicas.
 
 ## Antecipação das necessidades do usuário 
  
@@ -61,3 +67,4 @@ BARBOSA. Interação Humano-Computador, Capítulo 8 - Princípios e Diretrizes p
 |Data|Versão|Descrição|Autor|
 |:-:|:-:|:-:|:-:|
 |13/10/2020|0.1|Criação do documento|Paulo Gonçalves Lima|
+|14/10/2020|0.2|Revisão do documento|Matheus Amaral Moreira|

@@ -19,11 +19,11 @@ Como é direcionado principalmente para os compradores internacionais é um site
 
 Matrícula| Membro | GitHub | E-mail 
  :-----: | ------ | :----: | :----: 
-16/0022673 | Ailamar Alves Guimaraes | ailamaralves | ailamar.alvesg@gmail.com 
-17/0139981 | Danillo Goncalves de Souza | DanilloGS | danillosouza1704@gmail.com 
-17/0080307 | Matheus Amaral Moreira | Matheus-AM | mam.macacod@gmail.com 
-17/0122549 | Paulo Gonçalves Lima | paulogoncalveslima | paulogoncalves436@gmail.com 
-17/0113060 | Pedro Vítor de Salles Cella | pedro-cella | pedrovscella@gmail.com
+16/0022673 | Ailamar Alves Guimaraes| [ailamaralves](https://github.com/ailamaralves) | ailamar.alvesg@gmail.com 
+17/0139981 | Danillo Goncalves de Souza | [DanilloGS](https://github.com/DanilloGS) | danillosouza1704@gmail.com 
+17/0080307 | Matheus Amaral Moreira | [Matheus-AM](https://github.com/Matheus-AM) | mam.macacod@gmail.com 
+17/0122549 | Paulo Gonçalves Lima | [paulogoncalveslima](https://github.com/PauloGoncalvesLima) | paulogoncalves436@gmail.com 
+17/0113060 | Pedro Vítor de Salles Cella | [pedro-cella](https://github.com/pedro-cella) | pedrovscella@gmail.com
 
   
 <br/>

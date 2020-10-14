@@ -8,6 +8,7 @@
   * [Personas](/pages/requirementsAnalysis/personas/personas)
   * [Análise de tarefas](./pages/requirementsAnalysis/taskAnalysis/taskAnalysis)
   * [Metas de Usabilidade](./pages/requirementsAnalysis/usabilityGoals/usabilityGoals)
+  * [Princípios Gerais](./pages/requirementsAnalysis/GeneralPrinciples/GeneralPrinciples)
 ---
 
 * Links

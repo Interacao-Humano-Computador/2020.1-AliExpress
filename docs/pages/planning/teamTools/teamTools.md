@@ -7,7 +7,7 @@ Essa página da tem como objetivo, unicamente, informar ao leitor as ferramentas
 
 |    |    |
 ---- |:--- 
-![Discord](./Images/DiscordLogo.png ':size=150') | [**Discord:**](https://discord.com/) é utilizado por nossa equipe para que realizemos nossas reuniões como as *dailies* e *plannings* em todo decorrer do projeto.
+![Discord](./Images/DiscordLogo.png ':size=180') | [**Discord:**](https://discord.com/) é utilizado por nossa equipe para que realizemos nossas reuniões como as *dailies* e *plannings* em todo decorrer do projeto.
 ![Telegram Logo](./Images/TelegramLogo.png ':size=150') | [**Telegram:**](https://telegram.org/) é utilizado para que todos os membros do grupo consigam se comunicar de forma mais rápida. Pode-se discutir os horários das reuniões, mandar avisos e mais.
 ![Teams Logo](./Images/TeamsLogo.png ':size=130') | [**Microsoft Teams:**](https://www.microsoft.com/pt-br/microsoft-365/microsoft-teams/free) é utilizado para ensaios e gravação das apresentações ou alguma reunião que não for possível de ser feita pelo Discord.
 <br/>
@@ -30,8 +30,8 @@ Essa página da tem como objetivo, unicamente, informar ao leitor as ferramentas
 
 |    |    |
 ---- |:---
-![Visual studio code logo](./Images/VisualSudioCode.png ':size=100') |[**Visual Sudio Code:**](https://code.visualstudio.com/) está sendo utilizado para o desenvolvimento da documentação.
-![Draw.io Logo](./Images/DrawioLogo.png ':size=100') |[**Draw.io:**](https://code.visualstudio.com/) essa platafforma é utilizada para desenvolvimento dos diagramas do projeto.
+![Visual studio code logo](./Images/VisualSudioCode.png ':size=80') |[**Visual Sudio Code:**](https://code.visualstudio.com/) está sendo utilizado para o desenvolvimento da documentação.
+![Draw.io Logo](./Images/DrawioLogo.png ':size=80') |[**Draw.io:**](https://code.visualstudio.com/) essa platafforma é utilizada para desenvolvimento dos diagramas do projeto.
 ![Google Drive logo](./Images/DriveLogo.png ':size=140') |[**Google Drive:**](https://www.google.com.br/drive/apps.html) utilizado para salvar documentos e apresentações antes de serem publicados.
 ![YouTube Logo](./Images/YoutubeLogo.png ':size=110') |[**YouTube:**](https://www.youtube.com/) a cada apresentação que fazemos utilizamos o YouTube para publicarmos nosso video.
 <br/>

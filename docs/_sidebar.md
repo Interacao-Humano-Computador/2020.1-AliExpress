@@ -21,5 +21,6 @@
   - [Sprint 4](/pages/sprints/sprint4)
   - [Sprint 5](/pages/sprints/sprint5)
   - [Sprint 6](/pages/sprints/sprint6)
+  - [Sprint 7](/pages/sprints/sprint7)
 * [Apresentações](./pages/presentations/presentations)
 * [Politica](/pages/policy/policy)

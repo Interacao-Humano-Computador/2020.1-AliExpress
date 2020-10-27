@@ -14,7 +14,7 @@ Para o desenvolvimento do nosso Storyboard a equipe baseou-se nas [Personas](htt
 
 ### SB01 - Fluxo de Compras
 
-![Fluxo de Compras](./images/fluxo-de-compras.jpg)
+![Fluxo de Compras](./images/fluxo-de-compras.png)
 
 ### Avaliação SB01
 

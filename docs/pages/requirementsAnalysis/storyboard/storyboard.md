@@ -31,10 +31,10 @@
 
 |Data|Versão|Descrição|Autor|
 |:-:|:-:|:-:|:-:|
-|23/10/2020|0.1|Criação do escopo do documento| Ailamar Alves Guimarães|
-|27/10/2020|0.2|Adição do Storyboard SB03| Ailamar Alves Guimarães 
+|23/10/2020|0.1|Criação do escopo do documento| Ailamar Alves|
+|27/10/2020|0.2|Adição do Storyboard SB03| Ailamar Alves 
 |27/10/2020|0.3|Adição do Storyboard SB01| Danillo Souza
-|27/10/2020|0.4|Adição do Storyboard SB02| Matheus Amaral Moreira
+|27/10/2020|0.4|Adição do Storyboard SB02| Matheus Amaral 
 
 
 ### Referências

@@ -1,25 +1,27 @@
 # Storyboard
 
 ## Introdução
-dhsuahdsjdhsjsk
 
 ## Metodologia
-
-As personas são formas de se identificar os usuários de um software, a partir da análise de perfil feita é possível desenvolver personagens que devem atuar como o público a qual seu software se direcionará, dessa forma são analisados possíveis problemas que eles poderão ter no uso, identificando possíveis soluções.
 
 ## Storyboards
 
 ### SB01 - Fluxo de Compras
 
+![Fluxo de Compras](./images/fluxo-de-compras.jpg)
+
 ### Avaliação SB01
 
-### SB01 - Fluxo de Vendas
+### SB02 - Fluxo de Login
 
 ### Avaliação SB02
 
-### SB01 - Fluxo de Login
+### SB03 - Fluxo de Vendas
+
+![Fluxo de Vendas](./images/fluxo-de-vendas.png)
 
 ### Avaliação SB03
+
 
 ---
 
@@ -28,7 +30,8 @@ As personas são formas de se identificar os usuários de um software, a partir 
 |Data|Versão|Descrição|Autor|
 |:-:|:-:|:-:|:-:|
 |23/10/2020|0.1|Criação do escopo do documento| Ailamar Alves Guimarães|
-|27/10/2020|0.2|Adição do Storyboard x| Ailamar Alves Guimarães
+|27/10/2020|0.2|Adição do Storyboard SB03| Ailamar Alves Guimarães 
+|27/10/2020|0.3|Adição do Storyboard SB01| Danillo Souza
 
 
 ### Referências

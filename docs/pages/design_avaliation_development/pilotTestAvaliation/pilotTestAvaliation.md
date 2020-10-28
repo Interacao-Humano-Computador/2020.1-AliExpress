@@ -14,6 +14,11 @@ O objetivo do documento é detalhar a forma como o teste piloto deverá ser apli
 
 Por se tratar de um teste piloto "documental" não empregado nenhuma metodologia específica, sendo postergada para a utilização prática dos protótipos de baixa e alta fidelidade.
 
+### Termo de Consentimento
+Antes da avaliação é mostrado ao usuário um termo de consentimento, instruíndo-o sobre como será feita a avaliação bem como os objetivos e finalidades do projeto em si, lembrando ao usuário que há a possibilidade de desistêcia a qualquer momento durante a realização das atividadee. Abaixo o Termo de Consetimento:
+
+[Termo de Consentimento](./images/TermodeConsetimento.pdf)
+
 ### Avaliação
 
 #### 1. Escolha das tarefas a serem desenvolvidas

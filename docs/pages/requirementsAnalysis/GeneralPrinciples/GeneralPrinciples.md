@@ -56,12 +56,6 @@ Esse tópico varia com o perfil do usuário, caso o usuário seja um usuário co
  
 
 ---
- 
-### Referências
- 
-BARBOSA. Interação Humano-Computador, Capítulo 8 - Princípios e Diretrizes para o Design de IHC. 2º/2019. 12 páginas. Material apresentado para a disciplina de Interação Humano Computador no curso de Engenharia de Software da UnB, FGA.
-
----
 
 ### Versionamento
 
@@ -70,3 +64,11 @@ BARBOSA. Interação Humano-Computador, Capítulo 8 - Princípios e Diretrizes p
 |13/10/2020|0.1|Criação do documento|Paulo Gonçalves Lima|
 |14/10/2020|0.2|Revisão do documento|Matheus Amaral Moreira|
 |14/10/2020|0.3|Pequenas Alterações no documento|Paulo Gonçalves Lima|
+
+<br/>
+ 
+### Referências
+ 
+- BARBOSA. Interação Humano-Computador, Capítulo 8 - Princípios e Diretrizes para o Design de IHC. 2º/2019. 12 páginas. Material apresentado para a disciplina de Interação Humano Computador no curso de Engenharia de Software da UnB, FGA.
+
+

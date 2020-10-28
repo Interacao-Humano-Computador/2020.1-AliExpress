@@ -18,11 +18,15 @@ Para o desenvolvimento do nosso Storyboard a equipe baseou-se nas [Personas](htt
 
 ### Avaliação SB01
 
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRFryFGiTv_8NmOoEONawMKIyiBrPbVT3O2pZ1LEzkXAMcHax5Fp8HR5sEA5huTkNuXk8K8p7-l-0HV/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" style="width: 590px; height: 500px;"></iframe>
+
 ### SB02 - Fluxo de Login
 
 ![Fluxo de Login](./images/fluxo-de-login.png)
 
 ### Avaliação SB02
+
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRFryFGiTv_8NmOoEONawMKIyiBrPbVT3O2pZ1LEzkXAMcHax5Fp8HR5sEA5huTkNuXk8K8p7-l-0HV/pubhtml?gid=2005331916&amp;single=true&amp;widget=true&amp;headers=false" style="width: 650px; height: 480px;"></iframe>
 
 ### SB03 - Fluxo de Vendas
 
@@ -30,6 +34,7 @@ Para o desenvolvimento do nosso Storyboard a equipe baseou-se nas [Personas](htt
 
 ### Avaliação SB03
 
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRFryFGiTv_8NmOoEONawMKIyiBrPbVT3O2pZ1LEzkXAMcHax5Fp8HR5sEA5huTkNuXk8K8p7-l-0HV/pubhtml?gid=938290114&amp;single=true&amp;widget=true&amp;headers=false" style="width: 590px; height: 500px;"></iframe>
 
 ---
 
@@ -38,11 +43,10 @@ Para o desenvolvimento do nosso Storyboard a equipe baseou-se nas [Personas](htt
 |Data|Versão|Descrição|Autor|
 |:-:|:-:|:-:|:-:|
 |23/10/2020|0.1|Criação do escopo do documento| Ailamar Alves|
-|27/10/2020|0.2|Adição do Storyboard SB03| Ailamar Alves 
-|27/10/2020|0.3|Adição do Storyboard SB01| Danillo Souza
-|27/10/2020|0.4|Adição do Storyboard SB02| Matheus Amaral 
-
-<br/>
+|27/10/2020|0.2|Adição do Storyboard SB03| Ailamar Alves|
+|27/10/2020|0.3|Adição do Storyboard SB01| Danillo Souza|
+|27/10/2020|0.4|Adição do Storyboard SB02| Matheus Amaral|
+|28/10/2020|0.5|Adição da avaliação do Storyboard| Ailamar Alves, Danillo Souza, Matheus Amaral|
 
 ### Referências
 

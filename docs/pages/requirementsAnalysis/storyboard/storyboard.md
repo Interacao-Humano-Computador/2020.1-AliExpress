@@ -42,6 +42,8 @@ Para o desenvolvimento do nosso Storyboard a equipe baseou-se nas [Personas](htt
 |27/10/2020|0.3|Adição do Storyboard SB01| Danillo Souza
 |27/10/2020|0.4|Adição do Storyboard SB02| Matheus Amaral 
 
+<br/>
+
 ### Referências
 
-- 
+- BARBOSA e SILVA. Interação Humano-Computador, Capítulo 10 - Métodos de Avaliação de IHC. Material apresentado para a disciplina de Interação Humano Computador no curso de Engenharia de Software da UnB, FGA. Disponível em: <https://aprender3.unb.br/pluginfile.php/581392/mod_resource/content/3/Cap.%2010%20Simone_Barbosa_Bruno-Interacao_humano_computador.pdf>. Acesso em: out. 2020.

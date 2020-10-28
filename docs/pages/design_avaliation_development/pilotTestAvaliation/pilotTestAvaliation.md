@@ -1,27 +1,27 @@
 # Avaliação do Teste Piloto
 
-### Introdução
+## Introdução
 
 A avaliação do teste piloto trata da compreensão prévia a ser feita antes de se aplicado nos usuários, ela serve para que os avaliadores compreendam os procedimentos que deverão ser avaliados assim como o que se espera que o usuário desenvolva durante o momento em que se aplicará a avaliação de fato. Ela corresponde ao conjunto das avaliações feitas anteriormente sendo a avaliação da análise de tarefas e do storyboard, verificando se as tarefas nessas avaliadas de fato atingem os objetivos estabelecidos pelas avaliações.
 
 No teste piloto inicial usaremos personas para estabelecer o papel dos usuários na utilização do site.
 
-### Objetivos
+## Objetivos
 
 O objetivo do documento é detalhar a forma como o teste piloto deverá ser aplicado, bem como as instruções que deverão ser seguidas pelos avaliadores quando aplicado em usuários reais.
 
-### Metodologia
+## Metodologia
 
 Por se tratar de um teste piloto "documental" não empregado nenhuma metodologia específica, sendo postergada para a utilização prática dos protótipos de baixa e alta fidelidade.
 
-### Termo de Consentimento
+## Termo de Consentimento
 Antes da avaliação é mostrado ao usuário um termo de consentimento, instruíndo-o sobre como será feita a avaliação bem como os objetivos e finalidades do projeto em si, lembrando ao usuário que há a possibilidade de desistêcia a qualquer momento durante a realização das atividadee. Abaixo o Termo de Consetimento:
 
 [Termo de Consentimento](./images/TermodeConsetimento.pdf)
 
-### Avaliação
+## Avaliação
 
-#### 1. Escolha das tarefas a serem desenvolvidas
+### 1. Escolha das tarefas a serem desenvolvidas
 
 Para a escolha das tarefas, foi baseada nas funcionalidade mais utilizadas no site para que dessa forma possam ser identificados problemas iniciais a serem tratados no protótipo de baixa fidelidade
 
@@ -163,7 +163,7 @@ Ao final do processo de avaliação o avaliador deverá ,juntamente da planilha 
 
 <br>
 
-### Versionamento
+## Versionamento
 
 |Data|Versão|Descrição|Autor|
 |:-:|:-:|:-:|:-:|
@@ -173,6 +173,6 @@ Ao final do processo de avaliação o avaliador deverá ,juntamente da planilha 
 
 <br>
 
-### Referências
+## Referências
 
 - BARBOSA, S.D.J.; SILVA, B.S. Interação Humano--Computador. Computador. Editora Campus -- ElsevierElsevier, 2010., 2010.INF 1403 INF 1403 -- Introdução a IHC Introdução a IHC @Prof. Alberto Barbosa Raposo@Prof. Alberto Barbosa Raposo.

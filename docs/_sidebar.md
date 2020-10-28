@@ -11,8 +11,10 @@
   * [Metas de Usabilidade](./pages/requirementsAnalysis/usabilityGoals/usabilityGoals)
   * [Princípios Gerais](./pages/requirementsAnalysis/GeneralPrinciples/GeneralPrinciples)
 * Design, avaliação e desenvolvimento
-  * [Avaliação da Análise de Tarefas](./pages/design_avaliation_development/taskAnalysisAvalitation/taskAnalysisAvalitation)
-  * [Avaliação do Teste Piloto](./pages/design_avaliation_development/pilotTestAvaliation/pilotTestAvaliation)
+  * [Análise de Tarefas](./pages/design_avaliation_development/taskAnalysisAvaliation/taskAnalysisAvaliation)
+  * [Teste Piloto](./pages/design_avaliation_development/pilotTestAvaliation/pilotTestAvaliation)
+  * [Story board](./pages/design_avaliation_development/storyboard/storyboard)
+
 ---
 
 * Links

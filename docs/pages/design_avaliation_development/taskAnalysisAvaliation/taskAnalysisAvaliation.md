@@ -1,9 +1,11 @@
-### Metodologia
+# Avaliação da Análise de Tarefas
+
+## Metodologia
 A Análise Hierárquica de Tarefas ( HTA  – Hierarchical Task Analysis) foi desenvolvida na década de 1960 para entender as competências e habilidades exibidas em tarefas complexas e não repetitivas, bem como para auxiliar na identifi cação de problemas de desempenho (Annett, 2003; Annett e Duncan, 1967). Ela ajuda a relacionar o queas pessoas fazem (ou se recomenda que façam), por que o fazem, e quais as consequ-ências caso não o façam corretamente. 
 
 Uma tarefa é qualquer parte do trabalho que precisa ser realizada. Toda tarefa pode ser defi nida em termo de seu(s) objetivo(s). Tarefas complexas são defi nidas em termos de objetivos e subobjetivos, num desdobramento hierárquico. Uma análise funcional de tarefas começa pela definição dos objetivos das pessoas, antes de considerarmos as ações através das quais a tarefa pode ser realizada e o objetivo ser atingido.
 
-### Análise Hierárquica de Tarefas(HTA)
+## Análise Hierárquica de Tarefas(HTA)
 Esse tipo de análise funciona separando as operações em objetivos e subobjetivos a serem cumpridos pelo usuário, é feito uma tabela relatando o passo a passo de cada objetivo ou operação assim como a descrição dos problemas e recomendações.
 <br>
 <br>

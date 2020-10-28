@@ -26,7 +26,7 @@ Para o desenvolvimento do nosso Storyboard a equipe baseou-se nas [Personas](htt
 
 ### Avaliação SB02
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRFryFGiTv_8NmOoEONawMKIyiBrPbVT3O2pZ1LEzkXAMcHax5Fp8HR5sEA5huTkNuXk8K8p7-l-0HV/pubhtml?gid=2005331916&amp;single=true&amp;widget=true&amp;headers=false" style="width: 650px; height: 480px;"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRFryFGiTv_8NmOoEONawMKIyiBrPbVT3O2pZ1LEzkXAMcHax5Fp8HR5sEA5huTkNuXk8K8p7-l-0HV/pubhtml?gid=938290114&amp;single=true&amp;widget=true&amp;headers=false" style="width: 590px; height: 500px;"></iframe>
 
 ### SB03 - Fluxo de Vendas
 
@@ -34,8 +34,7 @@ Para o desenvolvimento do nosso Storyboard a equipe baseou-se nas [Personas](htt
 
 ### Avaliação SB03
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRFryFGiTv_8NmOoEONawMKIyiBrPbVT3O2pZ1LEzkXAMcHax5Fp8HR5sEA5huTkNuXk8K8p7-l-0HV/pubhtml?gid=938290114&amp;single=true&amp;widget=true&amp;headers=false" style="width: 590px; height: 500px;"></iframe>
-
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRFryFGiTv_8NmOoEONawMKIyiBrPbVT3O2pZ1LEzkXAMcHax5Fp8HR5sEA5huTkNuXk8K8p7-l-0HV/pubhtml?gid=2005331916&amp;single=true&amp;widget=true&amp;headers=false" style="width: 650px; height: 480px;"></iframe>
 ---
 
 ### Versionamento

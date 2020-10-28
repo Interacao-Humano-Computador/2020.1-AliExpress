@@ -10,6 +10,9 @@
   * [Guia de Estilos](/pages/requirementsAnalysis/stylesGuide/stylesGuide)
   * [Metas de Usabilidade](./pages/requirementsAnalysis/usabilityGoals/usabilityGoals)
   * [Princípios Gerais](./pages/requirementsAnalysis/GeneralPrinciples/GeneralPrinciples)
+* Design, avaliação e desenvolvimento
+  * [Avaliação da Análise de Tarefas](./pages/design_avaliation_development/taskAnalysisAvalitation/taskAnalysisAvalitation)
+  * [Avaliação do Teste Piloto](./pages/design_avaliation_development/pilotTestAvaliation/pilotTestAvaliation)
 ---
 
 * Links

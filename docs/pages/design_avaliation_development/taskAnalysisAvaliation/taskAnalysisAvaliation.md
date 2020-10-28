@@ -10,6 +10,7 @@ Esse tipo de análise funciona separando as operações em objetivos e subobjeti
 <br>
 <br>
 Para uma compreensão mais clara da tabela deve-se entender o significado das operações 1+2, 1/2 e 1>2.
+
 |Símbolo|Descrição|
 |:-:|:-:|
 |1+2| Expressa que as tarefas são feitas de forma paralela|
@@ -21,6 +22,7 @@ Para uma compreensão mais clara da tabela deve-se entender o significado das op
 ![Fluxo de Login](./images/v0.3HTA/HTA-FluxodeLogin.png ':size=50%')
 
 ## Fluxo de Login
+
 |Operações/Objetivos|Problemas e Recomendações|
 |:-:|:-:|
 |0- Fluxo de Login 1/2|Problemas e Recomendações|
@@ -40,6 +42,7 @@ Para uma compreensão mais clara da tabela deve-se entender o significado das op
 <br>
 
 ## Inserir dados para o login
+
 |Operações/Objetivos|Problemas e Recomendações|
 |:-:|:-:|
 |1 - Informar senha|Input: Informar a senha cadastrada no aliexpress|

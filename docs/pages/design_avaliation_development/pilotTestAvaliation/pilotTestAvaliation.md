@@ -17,7 +17,7 @@ Por se tratar de um teste piloto "documental" não empregado nenhuma metodologia
 ## Termo de Consentimento
 Antes da avaliação é mostrado ao usuário um termo de consentimento, instruíndo-o sobre como será feita a avaliação bem como os objetivos e finalidades do projeto em si, lembrando ao usuário que há a possibilidade de desistêcia a qualquer momento durante a realização das atividadee. Abaixo o Termo de Consetimento:
 
-[Termo de Consentimento](./images/TermodeConsetimento.pdf)
+<a href="/pages/design_avaliation_development/pilotTestAvaliation/downloads/TermodeConsentimento.pdf">Termo de Consentimento</a>
 
 ## Avaliação
 
@@ -153,9 +153,10 @@ Etapas:
 
 Para que o avaliador consiga anotar suas observações assim como problemas tanto do site, quanto do usuário em relação às tarefas foi desenvolvido uma tabela para que o mesmo possa descrever todo o processo. Disponível para download abaixo.
 
-[Avaliação do Teste Piloto.pdf](./images/AvaliaçãodoTestePiloto.pdf)
+<a href="/pages/design_avaliation_development/pilotTestAvaliation/downloads/AvaliaçãodoTestePiloto.pdf">Avaliação do Teste Piloto (PDF)</a>
 
-[Avaliação do Teste Piloto.docx](./images/AvaliaçãodoTestePiloto.docx)
+<a href="/pages/design_avaliation_development/pilotTestAvaliation/downloads/AvaliaçãodoTestePiloto.docx">Avaliação do Teste Piloto (DOCX)</a>
+
 
 ### Conclusão
 

@@ -6,14 +6,14 @@
 * Análise de requisitos
   * [Perfil de usuário](/pages/requirementsAnalysis/userProfile/userProfile)
   * [Personas](/pages/requirementsAnalysis/personas/personas)
-  * [Análise de tarefas](./pages/requirementsAnalysis/taskAnalysis/taskAnalysis)
+  * [Análise de tarefas](/pages/requirementsAnalysis/taskAnalysis/taskAnalysis)
   * [Guia de Estilos](/pages/requirementsAnalysis/stylesGuide/stylesGuide)
-  * [Metas de Usabilidade](./pages/requirementsAnalysis/usabilityGoals/usabilityGoals)
-  * [Princípios Gerais](./pages/requirementsAnalysis/GeneralPrinciples/GeneralPrinciples)
+  * [Metas de Usabilidade](/pages/requirementsAnalysis/usabilityGoals/usabilityGoals)
+  * [Princípios Gerais](/pages/requirementsAnalysis/GeneralPrinciples/GeneralPrinciples)
 * Design, avaliação e desenvolvimento
-  * [Análise de Tarefas](./pages/design_avaliation_development/taskAnalysisAvaliation/taskAnalysisAvaliation)
-  * [Teste Piloto](./pages/design_avaliation_development/pilotTestAvaliation/pilotTestAvaliation)
-  * [Story board](./pages/design_avaliation_development/storyboard/storyboard)
+  * [Análise de Tarefas](/pages/design_avaliation_development/taskAnalysisAvaliation/taskAnalysisAvaliation)
+  * [Teste Piloto](/pages/design_avaliation_development/pilotTestAvaliation/pilotTestAvaliation)
+  * [Story board](/pages/design_avaliation_development/storyboard/storyboard)
 
 ---
 
@@ -29,5 +29,5 @@
   - [Sprint 5](/pages/sprints/sprint5)
   - [Sprint 6](/pages/sprints/sprint6)
   - [Sprint 7](/pages/sprints/sprint7)
-* [Apresentações](./pages/presentations/presentations)
+* [Apresentações](/pages/presentations/presentations)
 * [Politica](/pages/policy/policy)

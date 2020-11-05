@@ -17,9 +17,6 @@
 
 ---
 
-* Links
-  * [Repositório](https://github.com/Interacao-Humano-Computador/2020.1-AliExpress)
-  * [Página da AliExpress](https://pt.aliexpress.com/)
 * Sprints
   - [Sprint 0](/pages/sprints/sprint0)
   - [Sprint 1](/pages/sprints/sprint1)
@@ -30,5 +27,9 @@
   - [Sprint 6](/pages/sprints/sprint6)
   - [Sprint 7](/pages/sprints/sprint7)
 * Apresentações 
-  - [Apresentação 1](/pages/presentations/presentations)
-* [Politica](/pages/policy/policy)
+  - [Vídeos](/pages/presentations/presentations)
+* Políticas
+  - [Politica de contribuíção](/pages/policy/policy)
+* Links
+  * [Repositório](https://github.com/Interacao-Humano-Computador/2020.1-AliExpress)
+  * [Página da AliExpress](https://pt.aliexpress.com/)

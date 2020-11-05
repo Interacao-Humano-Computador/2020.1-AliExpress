@@ -5,7 +5,7 @@
 
 Abaixo segue os vídeos das apresentações do semestre.
 
-## Apresentação 1 - (7/09/20)
+## Apresentação 1 - (21/09/20)
 
 **Entrega:** Planejamento do Projeto.
 
@@ -17,11 +17,11 @@ Abaixo segue os vídeos das apresentações do semestre.
   </iframe> 
 </div>
 
---- 
+<br/>
 
-## Apresentação 2 - (28/09/20)
+## Apresentação 2 - (05/10/20)
 
-**Entrega:** Elicitação de Requisitos.
+**Entrega:** Perfil do usuário, Personas e Análise de tarefas.
 
 <div>
   <!-- Apresentação 2 -->
@@ -33,10 +33,9 @@ Abaixo segue os vídeos das apresentações do semestre.
 
 ---
 
-## Apresentação 3 - (9/10/20)
+## Apresentação 3 - (15/10/20)
 
-**Entrega:** Modelagem de Requisitos: Cenários, Léxico, Use Case, Especificação Suplementar.
-
+**Entrega:** Princípios Gerais de Projeto, Metas de usabilidade, Guia de Estilo.
 <div>
   <!-- Apresentação 3 -->
   <iframe width="896" height="504" style="display: block;
@@ -47,9 +46,9 @@ Abaixo segue os vídeos das apresentações do semestre.
 
 ---
 
-## Apresentação 4 - (28/10/20)
+## Apresentação 4 - (29/10/20)
 
-**Entrega:** Modelagem de Requisitos - Ágil(Histórias de Usuário, Backlogs), NFR Framework.
+**Entrega:** Planejamento da Avaliação e do relato dos resultados da avaliação do Storyboard e Análise de tarefas.
 
 <div>
   <!-- Apresentação 4 -->
@@ -58,6 +57,7 @@ Abaixo segue os vídeos das apresentações do semestre.
 
 ---
 
-## Apresentação 5 - (9/11/20)
+## Apresentação 5 - (12/11/20)
 
-**Entrega:** Análise de Requisitos: Verificação e Validação.
+**Entrega:** Relato dos resultados do Story Board, Análise de tarefas e o Planejamento da Avaliação e do relato dos resultados 
+da avaliação do Protótipo de Papel.

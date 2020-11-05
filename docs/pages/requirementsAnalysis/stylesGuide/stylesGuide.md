@@ -19,11 +19,11 @@ O Ali Express é um site de varejo, do grupo Alibaba, maior grupo de varejo do m
 A imagem abaixo representa a logo atual bem conhecida e utilizaada nos sites da AliExpress.  
 Essa logo por já ser bastante minimalista e difundida na internet, não sofrerá nenhuma mudança em seu visual para não perder a identidade do site.
 
-![Logo](images/aliExpressLogo.png ':size=175 Logo Principal da Eagle Tecnologia')   ![Logo](images/aliexpressName.png ':size=300') *Fig1:Logo AliExpress.*
+![Logo](images/aliExpressLogo.png ':size=175 Logo Principal da Eagle Tecnologia')   ![Logo](images/aliexpressName.png ':size=300') *Fig 1: Logo AliExpress.*
 
 ### Paleta de cores
 
-![Paleta de cores](images/colorPalette.png)  *Fig2:Paleta de cores AliExpress.*
+![Paleta de cores](images/colorPalette.png) *Fig 2: Paleta de cores AliExpress.*
 
 Para cor do fundo iremos utilizar **#FFFFFF** (100% Branco), como contraste do fundo **#F1F1F1** (Cinza claro) e a cor da fonte e dos símbolos será **#333333**. As cores da paleta possuem diferentes tons de vermelho, o que remete a promoções e preços mais baixos, que acontecem no site com bastante frequência.
 
@@ -31,17 +31,17 @@ Para cor do fundo iremos utilizar **#FFFFFF** (100% Branco), como contraste do f
 
 A fonte padrão encontrada no site é a **Open Sans**, uma fonte humanista projetada com formas abertas e uma aparência neutra. Ela foi otimizada para interfaces de impressão, web e móveis, e possui excelentes características de legibilidade em seus formatos de letras.  
 
-![Fontes](images/openfont.png) *Fig3:Tipologia fonte Open Sans.*
+![Fontes](images/openfont.png ':size=400') *Fig 3: Tipologia fonte Open Sans.*
 
 Entretanto para o desenvolvimento do nossa tipografia, a fonte utilizada será a **Georgia**. A **Georgia** é uma fonte que possui personalidade distinta e é visualizada com nitidez na tela, por esses motivos é mais recomendada para sites de varejo.
 
-![Fontes](images/font.png) *Fig4:Tipologia fonte Georgia.*
+![Fontes](images/font.png ':size=400') *Fig 4: Tipologia fonte Georgia.*
 
 ### Símbolos não tipográficos
 
 Os ícones devem possuir um design minimalista, com o fundo vazio e somente contornados.
 
-![Ícones material design](images/materialIcons.png) *Fig5:Modelo de ícones.*
+![Ícones material design](images/materialIcons.png) *Fig 5: Modelo de ícones.*
 
 Os ícones do material design são um ótimo exemplo.
 

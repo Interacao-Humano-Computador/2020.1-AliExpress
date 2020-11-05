@@ -37,7 +37,7 @@ Como foi estabelecido na análise de tarefas é importante demonstrar que existe
 
 |***Figura 1 - Cadastro***|***Figura 2 - Login(Entrar)***|
 |:-:|:-:|
-|![Cadastro](./images/cadastro.png ':size=300')|![Login](./images/login.png ':size=300')|
+|![Cadastro](./images/cadastro.png ':size=300')|![Login](./images/login.png ':size=370')|
 
 Percebe-se que o cadastro assim como o login dispõe da capacidade de se cadastrar ou entrar, caso cadastrado com aquela conta, com contas vinculadas de outros sites, é importante que o avaliador disponha dessa opção para os usuários e explique de que forma isso os afeta. 
 

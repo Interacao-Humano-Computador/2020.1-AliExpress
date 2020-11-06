@@ -26,6 +26,7 @@
   - [Sprint 5](/pages/sprints/sprint5)
   - [Sprint 6](/pages/sprints/sprint6)
   - [Sprint 7](/pages/sprints/sprint7)
+  - [Sprint 8](/pages/sprints/sprint8)
 * Apresentações 
   - [Vídeos](/pages/presentations/presentations)
 * Políticas

@@ -70,7 +70,7 @@ Com o documento já preenchido, deverá ser levado à equipe os problemas aprese
 
 |Data|Versão|Descrição|Autor|
 |:-:|:-:|:-:|:-:|
-|27/10/2020|0.1|Criação do documento| Pedro Vítor de Salles Cella|
+|09/11/2020|0.1|Criação do documento| Pedro Vítor de Salles Cella|
 
 ## Referências
 

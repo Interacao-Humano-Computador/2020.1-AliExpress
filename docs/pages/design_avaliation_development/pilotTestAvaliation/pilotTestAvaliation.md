@@ -1,4 +1,4 @@
-# Avaliação do Teste Piloto
+# Planejamento da avaliação do Teste Piloto
 
 ## Introdução
 

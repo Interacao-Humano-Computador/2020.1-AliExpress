@@ -31,7 +31,7 @@ A avaliação será realizada com base nos storyboards da equipe, será mostrado
 
 #### Roteiro de perguntas específicas SB01:
 6. A narrativa condiz com o que o se aplica no site ao tentar fazer uma compra?
-7. Na sua opinião, essa sequência de tarefas são suficiente, excessivas ou insuficientes?
+7. Na sua opinião, essa sequência de tarefas são suficientes, excessivas ou insuficientes?
 8. Alguma sugestão de alteração para esse storyboard?
 
 
@@ -41,7 +41,7 @@ A avaliação será realizada com base nos storyboards da equipe, será mostrado
 
 #### Roteiro de perguntas específicas SB02:
 6. A narrativa condiz com o que o se aplica no site ao tentar fazer o *Login*?
-7. Na sua opinião, essa sequência de tarefas são suficiente, excessivas ou insuficientes?
+7. Na sua opinião, essa sequência de tarefas são suficientes, excessivas ou insuficientes?
 8. Alguma sugestão de alteração para esse storyboard?
 
 ### SB03 - Fluxo de Vendas
@@ -50,10 +50,8 @@ A avaliação será realizada com base nos storyboards da equipe, será mostrado
 
 #### Roteiro de perguntas específicas SB03:
 6. A narrativa condiz com o que o se aplica no site ao tentar cadastrar um produto para venda?
-7. Na sua opinião, essa sequência de tarefas são suficiente, excessivas ou insuficientes?
+7. Na sua opinião, essa sequência de tarefas são suficientes, excessivas ou insuficientes?
 8. Alguma sugestão de alteração para esse storyboard?
-
-<br>
 
 ### Definição dos participantes
 

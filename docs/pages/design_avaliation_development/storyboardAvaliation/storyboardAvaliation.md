@@ -18,11 +18,11 @@ A avaliação será realizada com base nos storyboards da equipe, será mostrado
 
 ### Roteiro de perguntas gerais:
 
-1. De acordo com os storyboards apresentados, você ja passou por alguma dessas situações?
+1. De acordo com os storyboards apresentados, você já passou por alguma dessas situações?
 2. As narrativas foram executadas de forma clara para o entendimento do leitor? 
-3. Na sua opnião, alguma ocorrência foi deixada de ser representada? Se sim, qual?
+3. Na sua opinião, alguma ocorrência foi deixada de ser representada? Se sim, qual?
 4. A ordem das tarefas foram realizadas de forma correta?
-5. A descrição das tarefas foram realizadas de forma correta ou seria nessário mais detalhamento?
+5. A descrição das tarefas foram realizadas de forma correta ou seria necessário mais detalhamento?
 
 
 ### SB01 - Fluxo de Compras

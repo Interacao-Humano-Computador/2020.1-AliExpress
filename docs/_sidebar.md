@@ -14,6 +14,9 @@
   * [Análise de Tarefas](/pages/design_avaliation_development/taskAnalysisAvaliation/taskAnalysisAvaliation)
   * [Teste Piloto](/pages/design_avaliation_development/pilotTestAvaliation/pilotTestAvaliation)
   * [Story board](/pages/design_avaliation_development/storyboard/storyboard)
+  * Planejamento da Avaliação
+    * [Story board](/pages/design_avaliation_development/storyboard/storyboard)
+    * [Prototipo de Papel](/pages/design_avaliation_development/PaperPrototypeAvaliation/PaperPrototypeAvaliation)
 
 ---
 

@@ -15,7 +15,7 @@
 ## Modal Login e Cadastro
 ![Modal de login](./images/modalLogin.png ':size=300px') ![Modal de cadastro](./images/modalCadastro.png ':size=300px')
 
-### Link para prototipo iterativo 
+### Link para prototipo interativo 
 
 [Protótipo de Baixa Fidelidade](https://marvelapp.com/prototype/5gf71ef?)
 

@@ -22,10 +22,6 @@ Antes da avaliação é mostrado ao usuário um termo de consentimento, instruin
 A escolha dos participantes se baseia no teste piloto feito anteriormente, o ideal é trabalhar com os mesmos usuários que realizaram o teste, caso não seja possível, seguir o padrão descrito no documento abaixo:
 [Definição dos participantes - Teste Piloto](https://interacao-humano-computador.github.io/2020.1-AliExpress/#/pages/design_avaliation_development/pilotTestAvaliation/pilotTestAvaliation?id=defini%c3%a7%c3%a3o-dos-participantes)
 
-## Prototipo de Baixa Fidelidade
-
-[Protótipo de Baixa Fidelidade](https://marvelapp.com/prototype/5gf71ef?)
-
 
 ## Planejamento
 

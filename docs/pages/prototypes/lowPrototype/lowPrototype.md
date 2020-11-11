@@ -1,4 +1,4 @@
-# Protótipo de papel
+# Protótipo de Baixa Fidelidade
 
 ## Página principal
 ![Página principal](./images/paginaPrincipal.png)
@@ -14,6 +14,10 @@
 
 ## Modal Login e Cadastro
 ![Modal de login](./images/modalLogin.png ':size=300px') ![Modal de cadastro](./images/modalCadastro.png ':size=300px')
+
+### Link para prototipo iterativo 
+
+[Protótipo de Baixa Fidelidade](https://marvelapp.com/prototype/5gf71ef?)
 
 ## Versionamento
 |Data|Versão|Descrição|Autor|

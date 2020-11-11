@@ -1,4 +1,4 @@
-# Avaliação do Teste Piloto
+# Planejamento da avaliação do Teste Piloto
 
 ## Introdução
 
@@ -151,9 +151,10 @@ Etapas:
 
 4. Finalizar o teste e agradecer a participação do usuário;
 
-Para que o avaliador consiga anotar suas observações assim como problemas tanto do site, quanto do usuário em relação às tarefas foi desenvolvido uma tabela para que o mesmo possa descrever todo o processo. Disponível para download abaixo.
+Para que o avaliador consiga anotar suas observações assim como problemas tanto do site, quanto do usuário em relação às tarefas foi desenvolvido uma tabela para que o mesmo possa descrever todo o processo. Disponível para acesso abaixo.
 
 <a href="https://docs.google.com/document/d/146vN6xGC9qRork2p_jRujnF_MrVq5daNOpPfWNkaTJE/edit?usp=sharing">Avaliação do Teste Piloto</a>
+
 
 ### Conclusão
 

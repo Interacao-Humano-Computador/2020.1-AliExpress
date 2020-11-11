@@ -12,7 +12,7 @@ Para a avaliação do protótipo de Baixa Fidelidade, utilizaremos uma junção 
 
 Auxiliar o avaliador a fazer a avaliação do protótipo de baixa fidelidade, com as perguntas necessarias, quais tarefas ele deve simular e o que se deve ser relatado após o fim da avaliação.
 
-## Prototipo de Baixa Fidelidade
+## Protótipo de Baixa Fidelidade
 
 [Protótipo de Baixa Fidelidade](https://marvelapp.com/prototype/5gf71ef?)
 

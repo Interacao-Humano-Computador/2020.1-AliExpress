@@ -14,6 +14,9 @@
   * [Análise de Tarefas](/pages/design_avaliation_development/taskAnalysisAvaliation/taskAnalysisAvaliation)
   * [Teste Piloto](/pages/design_avaliation_development/pilotTestAvaliation/pilotTestAvaliation)
   * [Story board](/pages/design_avaliation_development/storyboard/storyboard)
+* Protótipos
+  * [Alta Fidelidade](/404)
+  * [Baixa Fidelidade](/pages/prototypes/paperPrototype/paperPrototype)
 
 ---
 

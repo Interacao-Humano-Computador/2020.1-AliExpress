@@ -16,6 +16,8 @@
   * [Story board](/pages/design_avaliation_development/storyboard/storyboard)
 * Planejamento da Avaliação
   * [Story board](/pages/design_avaliation_development/storyboardAvaliation/storyboardAvaliation)
+* Avaliação do Storyboard
+  * [Story board](/pages/design_avaliation_development/storyboardAv/storyboardAv)
   * [Protótipo de Baixa Fidelidade](/pages/design_avaliation_development/LowFidelityPrototypeAvaliation/LowFidelityPrototypeAvaliation)
 * Protótipos
   * [Alta Fidelidade](/404)

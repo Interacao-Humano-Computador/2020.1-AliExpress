@@ -14,11 +14,11 @@
   * [Análise de Tarefas](/pages/design_avaliation_development/taskAnalysisAvaliation/taskAnalysisAvaliation)
   * [Teste Piloto](/pages/design_avaliation_development/pilotTestAvaliation/pilotTestAvaliation)
   * [Story board](/pages/design_avaliation_development/storyboard/storyboard)
+  * [Avaliação Story board](/pages/design_avaliation_development/storyboardAv/storyboardAv)
 * Planejamento da Avaliação
   * [Story board](/pages/design_avaliation_development/storyboardAvaliation/storyboardAvaliation)
-* Avaliação do Storyboard
-  * [Story board](/pages/design_avaliation_development/storyboardAv/storyboardAv)
   * [Protótipo de Baixa Fidelidade](/pages/design_avaliation_development/LowFidelityPrototypeAvaliation/LowFidelityPrototypeAvaliation)
+
 * Protótipos
   * [Alta Fidelidade](/404)
   * [Baixa Fidelidade](/pages/prototypes/paperPrototype/paperPrototype)

@@ -12,7 +12,17 @@ Para a avaliação do protótipo de Baixa Fidelidade, utilizaremos uma junção 
 
 Auxiliar o avaliador a fazer a avaliação do protótipo de baixa fidelidade, com as perguntas necessarias, quais tarefas ele deve simular e o que se deve ser relatado após o fim da avaliação.
 
-## Protótipo de Baixa Fidelidade
+## Termo de Consentimento
+
+Antes da avaliação é mostrado ao usuário um termo de consentimento, instruindo-o sobre como será feita a avaliação bem como os objetivos e finalidades do projeto em si, lembrando ao usuário que há a possibilidade de desistência a qualquer momento durante a realização das atividade.
+
+
+## Definição dos participantes
+
+A escolha dos participantes se baseia no teste piloto feito anteriormente, o ideal é trabalhar com os mesmos usuários que realizaram o teste, caso não seja possível, seguir o padrão descrito no documento abaixo:
+[Definição dos participantes - Teste Piloto](https://interacao-humano-computador.github.io/2020.1-AliExpress/#/pages/design_avaliation_development/pilotTestAvaliation/pilotTestAvaliation?id=defini%c3%a7%c3%a3o-dos-participantes)
+
+## Prototipo de Baixa Fidelidade
 
 [Protótipo de Baixa Fidelidade](https://marvelapp.com/prototype/5gf71ef?)
 
@@ -59,6 +69,7 @@ O avaliador deve fazer uma simulação utilizando o protótipo de baixa fidelida
 |10/11/2020|0.1|Criação do documento|Paulo Gonçalves Lima, Pedro Vitor de Salles Cella|
 |10/11/2020|0.2|Adicionando as referencias|Paulo Gonçalves Lima, Pedro Vitor de Salles Cella|
 |11/11/2020|0.3|Adicionando as perguntas|Paulo Gonçalves Lima|
+|11/11/2020|0.3|Adicionando Termo de Consentimento e a Definição dos Participantes |Pedro Vitor de Salles Cella, Ailamar Alves|
 ### Referencias
 
 [Livro Interacao humano computador de Simone Barbosa e Bruno ](https://aprender3.unb.br/pluginfile.php/581392/mod_resource/content/3/Cap.%2010%20Simone_Barbosa_Bruno-Interacao_humano_computador.pdf)

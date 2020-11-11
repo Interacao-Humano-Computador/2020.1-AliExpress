@@ -14,7 +14,7 @@ Antes da avaliação é mostrado ao usuário um termo de consentimento, instruin
 [Termo de Consentimento](https://docs.google.com/document/d/1OK_upZJjwvDixhqOPLErghCdlKtA7kdCviEqBe4iEQ4/edit?usp=sharing':target=_blank')
 
 ## Avaliação
-A avaliação será realizada com base nos storyboards da equipe, será mostrado um storyboard por vez, e a partir dele serão realizadas algumas perguntas para captar o máximo de informações.Relembrando que essa avaliação deve ser feita depois do teste piloto, para que o usuário já tenha noção das funcionalidade do site e seus problemas.
+A avaliação será realizada com base nos storyboards da equipe, será mostrado um storyboard por vez, e a partir dele serão realizadas algumas perguntas para captar o máximo de informações. Relembrando que essa avaliação deve ser feita depois do teste piloto, para que o usuário já tenha noção das funcionalidade do site e seus problemas.
 
 ### Roteiro de perguntas gerais:
 

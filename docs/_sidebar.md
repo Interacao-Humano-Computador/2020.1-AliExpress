@@ -6,20 +6,20 @@
 * Análise de requisitos
   * [Perfil de usuário](/pages/requirementsAnalysis/userProfile/userProfile)
   * [Personas](/pages/requirementsAnalysis/personas/personas)
-  * [Análise de tarefas](./pages/requirementsAnalysis/taskAnalysis/taskAnalysis)
+  * [Análise de tarefas](/pages/requirementsAnalysis/taskAnalysis/taskAnalysis)
   * [Guia de Estilos](/pages/requirementsAnalysis/stylesGuide/stylesGuide)
-  * [Metas de Usabilidade](./pages/requirementsAnalysis/usabilityGoals/usabilityGoals)
-  * [Princípios Gerais](./pages/requirementsAnalysis/GeneralPrinciples/GeneralPrinciples)
+  * [Metas de Usabilidade](/pages/requirementsAnalysis/usabilityGoals/usabilityGoals)
+  * [Princípios Gerais](/pages/requirementsAnalysis/GeneralPrinciples/GeneralPrinciples)
 * Design, avaliação e desenvolvimento
-  * [Análise de Tarefas](./pages/design_avaliation_development/taskAnalysisAvaliation/taskAnalysisAvaliation)
-  * [Teste Piloto](./pages/design_avaliation_development/pilotTestAvaliation/pilotTestAvaliation)
-  * [Story board](./pages/design_avaliation_development/storyboard/storyboard)
+  * [Análise de Tarefas](/pages/design_avaliation_development/taskAnalysisAvaliation/taskAnalysisAvaliation)
+  * [Teste Piloto](/pages/design_avaliation_development/pilotTestAvaliation/pilotTestAvaliation)
+  * [Story board](/pages/design_avaliation_development/storyboard/storyboard)
+* Protótipos
+  * [Alta Fidelidade](/404)
+  * [Baixa Fidelidade](/pages/prototypes/paperPrototype/paperPrototype)
 
 ---
 
-* Links
-  * [Repositório](https://github.com/Interacao-Humano-Computador/2020.1-AliExpress)
-  * [Página da AliExpress](https://pt.aliexpress.com/)
 * Sprints
   - [Sprint 0](/pages/sprints/sprint0)
   - [Sprint 1](/pages/sprints/sprint1)
@@ -29,5 +29,11 @@
   - [Sprint 5](/pages/sprints/sprint5)
   - [Sprint 6](/pages/sprints/sprint6)
   - [Sprint 7](/pages/sprints/sprint7)
-* [Apresentações](./pages/presentations/presentations)
-* [Politica](/pages/policy/policy)
+  - [Sprint 8](/pages/sprints/sprint8)
+* Apresentações 
+  - [Vídeos](/pages/presentations/presentations)
+* Políticas
+  - [Politica de contribuíção](/pages/policy/policy)
+* Links
+  * [Repositório](https://github.com/Interacao-Humano-Computador/2020.1-AliExpress)
+  * [Página da AliExpress](https://pt.aliexpress.com/)

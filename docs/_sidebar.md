@@ -15,7 +15,7 @@
   * [Teste Piloto](/pages/design_avaliation_development/pilotTestAvaliation/pilotTestAvaliation)
   * [Story board](/pages/design_avaliation_development/storyboard/storyboard)
 * Planejamento da Avaliação
-  * [Story board](/pages/design_avaliation_development/storyboard/storyboard)
+  * [Story board](/pages/design_avaliation_development/storyboardAvaliation/storyboardAvaliation)
   * [Prototipo de Papel](/pages/design_avaliation_development/PaperPrototypeAvaliation/PaperPrototypeAvaliation)
 * Protótipos
   * [Alta Fidelidade](/404)

@@ -11,13 +11,15 @@ O objetivo desse documento é determinar se os storyboards desenvolvidos pela eq
 
 ## Avaliação do Storyboard
 
-|Público:|[X]Universitário []Geral|
+| | |
+|:-:|:-:|
+|Público:|[ X ] Universitário  [  ] Geral|
 |Nome Completo|Mario Moacir|
-|Usuário participou do Teste Piloto:|[X]Sim []Não|
+|Usuário participou do Teste Piloto:|[ X ]Sim [ ]Não|
 |Idade:|22 anos|
-|Cursando o ensino superior:|[X]Sim []Não|
-|Dependente de terceiros:|[X]Sim []Não|
-|Empregado:|[]Sim [X]Não|
+|Cursando o ensino superior:|[ X ]Sim [ ]Não|
+|Dependente de terceiros:|[ X ]Sim [ ]Não|
+|Empregado:|[ ]Sim [ X ]Não|
 
 ### Respostas das perguntas gerais
 1. Sim, a maioria dos sites que já utilizei precisaram de cadastro para conseguir utilizar, e costumo acessar sites para pesquisar preços.

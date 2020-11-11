@@ -21,7 +21,7 @@
 
 * Protótipos
   * [Alta Fidelidade](/404)
-  * [Baixa Fidelidade](/pages/prototypes/paperPrototype/paperPrototype)
+  * [Baixa Fidelidade](/pages/prototypes/lowPrototype/lowPrototype)
   
 ---
 

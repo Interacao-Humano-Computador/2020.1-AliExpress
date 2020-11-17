@@ -20,7 +20,7 @@
   * [Protótipo de Baixa Fidelidade](/pages/design_avaliation_development/LowFidelityPrototypeAvaliation/LowFidelityPrototypeAvaliation)
 
 * Protótipos
-  * [Alta Fidelidade](/404)
+  * [Alta Fidelidade](/pages/prototypes/finalPrototype/finalPrototype)
   * [Baixa Fidelidade](/pages/prototypes/lowPrototype/lowPrototype)
   
 ---

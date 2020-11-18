@@ -15,6 +15,8 @@
   * [Teste Piloto](/pages/design_avaliation_development/pilotTestAvaliation/pilotTestAvaliation)
   * [Story board](/pages/design_avaliation_development/storyboard/storyboard)
   * [Avaliação Story board](/pages/design_avaliation_development/storyboardAv/StoryboardAv)
+  * [Avaliação Protótipo de Baixa Fidelidade](/pages/design_avaliation_development/LowFidelityPrototypeAvaliation/Interview)
+  * [Avaliação Protótipo de Alta Fidelidade](/pages/design_avaliation_development/LowFidelityPrototypeAvaliation/Interview)
 * Planejamento da Avaliação
   * [Story board](/pages/design_avaliation_development/storyboardAvaliation/storyboardAvaliation)
   * [Protótipo de Baixa Fidelidade](/pages/design_avaliation_development/LowFidelityPrototypeAvaliation/LowFidelityPrototypeAvaliation)

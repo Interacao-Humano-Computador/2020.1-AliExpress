@@ -43,13 +43,14 @@ O avaliador deve fazer uma simulação utilizando o protótipo de alta fidelidad
 ### Perguntas
 
 1. Visualmente, qual a sua primeira impressão ao utilizar o site?
-2. Caso o protótipo fosse implementado, você iria utilizar o protótipo ou o site da Ali Express?
-3. Dado esse novo protótipo você acredita que há algo a ser melhorado? Cite.
-4. Qual o seu nível de satisfação desse protótipo?  
-  [ ] Totalmente Satisfeito(a)  
-  [ ] Parcialmente Satisfeito(a)  
-  [ ] Parcialmente Insatisfeito(a)  
-  [ ] Totalmente Insatisfeito(a)  
+2. Teve dificuldade em executar alguma tarefa?
+3. Caso o protótipo fosse implementado, você iria preferir utilizar o protótipo ou o site original da Ali Express?
+4. Dado esse novo protótipo você acredita que há algo a ser melhorado? Cite.
+5. Qual o seu nível de satisfação para esse protótipo?  
+  [ ] Totalmente Satisfeito(a).  
+  [ ] Parcialmente Satisfeito(a).  
+  [ ] Parcialmente Insatisfeito(a).  
+  [ ] Totalmente Insatisfeito(a).
 
 ---
 
@@ -64,4 +65,4 @@ O avaliador deve fazer uma simulação utilizando o protótipo de alta fidelidad
 
 ### Referências
 
-- [Livro Interacao humano computador de Simone Barbosa e Bruno ](https://aprender3.unb.br/pluginfile.php/581392/mod_resource/content/3/Cap.%2010%20Simone_Barbosa_Bruno-Interacao_humano_computador.pdf)
+- Livro Interacao Humano-Computador. Simone Barbosa e Bruno. Disponível em: <https://aprender3.unb.br/pluginfile.php/581392/mod_resource/content/3/Cap.%2010%20Simone_Barbosa_Bruno-Interacao_humano_computador.pdf> Acesso em: nov, 2020.

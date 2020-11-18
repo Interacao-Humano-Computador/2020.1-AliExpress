@@ -7,4 +7,4 @@
 |:-:|:-:|:-:|:-:|
 |17/11/2020|0.1|Criação de esqueleto de páginas e adição de imagens|Danillo Souza, Pedro Cella e Paulo Gonçalves|
 |17/11/2020|0.2|Estilização do protótipo|Danillo Souza|
-|17/11/2020|0.2|Correção do link|Paulo Gonçalves|
+|17/11/2020|0.3|Correção do link|Paulo Gonçalves|

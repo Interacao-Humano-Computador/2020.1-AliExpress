@@ -11,7 +11,8 @@ Para a avaliação do protótipo de Baixa Fidelidade utilizaremos uma junção d
 
 ## Objetivo
 
-Esse documento tem o objetivo de auxiliar o avaliador a fazer a avaliação do Protótipo de Alta Fidelidade, com as perguntas necessárias, quais tarefas ele deve simular e o que se deve ser relatado após o fim da avaliação.
+Esse documento tem o objetivo de auxiliar o avaliador a fazer a avaliação do Protótipo de Baixa Fidelidade, com as perguntas necessárias, quais tarefas ele deve simular e o que se deve ser relatado após o fim da avaliação.
+
 
 ## Termo de Consentimento
 

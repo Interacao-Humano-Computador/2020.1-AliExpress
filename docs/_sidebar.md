@@ -18,7 +18,8 @@
 * Planejamento da Avaliação
   * [Story board](/pages/design_avaliation_development/storyboardAvaliation/storyboardAvaliation)
   * [Protótipo de Baixa Fidelidade](/pages/design_avaliation_development/LowFidelityPrototypeAvaliation/LowFidelityPrototypeAvaliation)
-
+  * [Protótipo de Alta Fidelidade](/pages/design_avaliation_development/HighFidelityPrototypeAvaliation/HighFidelityPrototypeAvaliation)
+ 
 * Protótipos
   * [Alta Fidelidade](/pages/prototypes/finalPrototype/finalPrototype)
   * [Baixa Fidelidade](/pages/prototypes/lowPrototype/lowPrototype)

@@ -2,11 +2,11 @@
  
 ## Introdução
  
-A avaliação do Protótipo de Baixa Fidelidade trata-se do passo-a-passo que os avaliadores devem seguir para obterem feedbacks importantes que contribuam para a melhoria do protótipo. Também utilizaremos o [Teste Piloto](https://interacao-humano-computador.github.io/2020.1-AliExpress/#/pages/design_avaliation_development/pilotTestAvaliation/pilotTestAvaliation) como auxílio para a análise.
- 
+Nesse documento será relatado a execução da entrevista, as respostas do participante e levantados os pontos positivos e negativos que forem analisados em relação ao nosso Protótipo de Alta Fidelidade.
+
 ## Metodologia
  
-Para a avaliação do protótipo de Baixa Fidelidade utilizaremos uma junção do percurso cognitivo e da avaliação através de inspeção, o método de percurso cognitivo é um método que tem como principal objetivo avaliar a facilidade do usuário em aprender a utilizar o sistema, já a avaliação através de inspeção tem como objetivo tentar prever possíveis consequências das decisões de design tomadas.
+Os detalhes de como essa entrevista deveria ser realizada foram descritos no [Planejamento da Avaliação](https://interacao-humano-computador.github.io/2020.1-AliExpress/#/pages/design_avaliation_development/HighFidelityPrototypeAvaliation/HighFidelityPrototypeAvaliation). Seguindo os passos descritos no documento citado, após auxiliar o participante e explicar como executar os procedimentos, o avaliador deve relatar os resultados indicando descrição e justificativa de problemas que forem encontrados e sugestões de solução.
  
 ## Entrevista
  
@@ -15,7 +15,7 @@ Para a avaliação do protótipo de Baixa Fidelidade utilizaremos uma junção d
 Segundo o nosso Termo de Consentimento, o avaliado é anônimo, sendo assim, não compartilhamos o seu nome, apenas suas respostas.
  
 | | |
-|:-|:-:|
+|:-|:-|
 |Público:|[ X ]Universitário  [  ]Geral|
 |Usuário participou do Teste Piloto:|[ ]Sim [ X ]Não|
 |Idade:|22 anos|
@@ -58,7 +58,7 @@ Após o usuário executar as tarefas de efetuar uma compra e fazer login, foram 
  
 ## Conclusão
  
-Com base na análise do entrevistado, pode-se concluir que o Protótipo de Alta Fidelidade está fiel com as tarefas propostas de maneira clara, exceto por uma etapa do fluxo de compra que foi pulada ao tentar adicionar ao carrinho. Além disso, a entrevista esclareceu que a análise de tarefas carece da filtragem de busca.
+Com base na análise do entrevistado, pode-se concluir que o Protótipo de Alta Fidelidade está fiel com as tarefas propostas de maneira clara, exceto por uma etapa do fluxo de compra que foi pulada ao tentar adicionar ao carrinho. Além disso, a entrevista esclareceu que a análise de tarefas carece da filtragem de busca e um campo para entrar em contato com o vendedor.
  
 ---
  
@@ -66,7 +66,7 @@ Com base na análise do entrevistado, pode-se concluir que o Protótipo de Alta 
  
 |Data|Versão|Descrição|Autor|
 |:--:|:----:|:-------:|:---:|
-|17/11/2020|0.1|Criação do documento|Ailamar Alves Guimarães|
+|17/11/2020|0.1|Criação do escopo do documento|Ailamar Alves Guimarães|
 |17/11/2020|0.2|Adição da entrevista|Matheus Amaral Moreira|
  
 <br>

@@ -14,7 +14,8 @@ Esse documento tem o objetivo de auxiliar o avaliador a fazer a avaliação do P
 
 ## Termo de Consentimento
 
-Antes da avaliação é mostrado ao usuário um termo de consentimento, instruindo-o sobre como será feita a avaliação bem como os objetivos e finalidades do projeto em sí, lembrando ao usuário que há a possibilidade de desistência a qualquer momento durante a realização das atividades.
+Antes da avaliação é mostrado ao usuário um termo de consentimento, instruindo-o sobre como será feita a avaliação bem como os objetivos e finalidades do projeto em sí, lembrando ao usuário que há a possibilidade de desistência a qualquer momento durante a realização das atividades. Abaixo segue o Termo de Consentimento:  
+[Termo de Consentimento](https://docs.google.com/document/d/1OK_upZJjwvDixhqOPLErghCdlKtA7kdCviEqBe4iEQ4/edit?usp=sharing':target=_blank')
 
 ## Definição dos participantes
 

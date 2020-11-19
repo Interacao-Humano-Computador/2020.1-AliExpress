@@ -67,3 +67,14 @@ da avaliação do Protótipo de Papel.
   <iframe src="https://www.youtube.com/embed/iRnwThUIFv0" width="896" height="504"></iframe>
 </div>
 
+---
+
+## Apresentação 6 - (19/11/20)
+
+**Entrega:** Relato dos resultados do Protótipo de Papel e Planejamento da Avaliação e o relato dos resultados da avaliação do Protótipo de Alta Fidelidade.
+
+<div>
+  <!-- Apresentação 6 -->
+  <iframe src="https://www.youtube.com/embed/UHU50MFBOas" width="896" height="504"></iframe>
+</div>
+

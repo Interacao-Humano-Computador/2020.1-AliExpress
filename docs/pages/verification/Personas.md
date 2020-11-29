@@ -1,7 +1,7 @@
 # Personas
 
 ## Introdução
-Este documento tem como intuito demonstrar, utilizando do processo de verificação, possíveis erros feitos durante o processo de analise de requisitos, nesse caso serão verificado as personas utilizando de uma checklist que possui perguntas relacionadas a detalhes que deveriam estar constando no artefato.
+Este documento tem como intuito demonstrar, utilizando do processo de verificação, possíveis erros feitos durante o processo de analise de requisitos, nesse caso será verificado as personas utilizando de uma checklist que possui perguntas relacionadas a detalhes que deveriam estar constando no artefato.
 
 ### Legenda
 
@@ -81,7 +81,7 @@ Este documento tem como intuito demonstrar, utilizando do processo de verificaç
 
 |||
 |:-|:-:|
-|[Documento como um todo](https://interacao-humano-computador.github.io/2020.1-AliExpress/#/pages/requirementsAnalysis/personas/personas?id=personas)||
+|[Documento como um todo](https://interacao-humano-computador.github.io/2020.1-AliExpress/#/pages/requirementsAnalysis/personas/personas?id=personas)|?%|
 
 
 #### Resultados da verificação das personas

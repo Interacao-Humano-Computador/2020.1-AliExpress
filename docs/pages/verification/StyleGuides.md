@@ -24,3 +24,10 @@ Este documento tem como intuito demonstrar, utilizando do processo de verificaç
 
 
 ### Resultados da verificação
+
+
+
+### Versionamento
+|Data|Versão|Descrição|Autor|
+|:-:|:-:|:-:|:-:|
+|28/11/2020|0.1|Criação do documento|Paulo Gonçalves, Pedro Cella|

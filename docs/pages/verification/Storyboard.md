@@ -59,3 +59,11 @@ Este documento tem como intuito demonstrar, utilizando do processo de verificaç
 |Foram executadas as correções dos erros que a avaliação detectou ?||
 
 #### Resultados da verificação dos storyboards
+
+
+
+
+### Versionamento
+|Data|Versão|Descrição|Autor|
+|:-:|:-:|:-:|:-:|
+|28/11/2020|0.1|Criação do documento|Paulo Gonçalves, Pedro Cella|

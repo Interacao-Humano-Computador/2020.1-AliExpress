@@ -46,3 +46,14 @@ Este documento tem como intuito demonstrar, utilizando do processo de verificaç
 |O protótipo de alta fidelidade foi avaliado por usuários reais?||
 |Foram encontrados problemas no protótipo e alta fidelidade?||
 |Total:||
+
+
+
+### Resultados da verificação
+
+
+
+### Versionamento
+|Data|Versão|Descrição|Autor|
+|:-:|:-:|:-:|:-:|
+|28/11/2020|0.1|Criação do documento|Paulo Gonçalves, Pedro Cella|

@@ -23,6 +23,8 @@
   * [Alta Fidelidade](/pages/prototypes/finalPrototype/finalPrototype)
   * [Baixa Fidelidade](/pages/prototypes/lowPrototype/lowPrototype)
   
+* Verificação
+  * [Personas](/pages/verification/Personas)
 ---
 
 * Sprints

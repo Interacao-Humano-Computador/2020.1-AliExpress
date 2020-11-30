@@ -48,7 +48,7 @@ Este documento tem como intuito demonstrar, utilizando do processo de verificaç
 |||
 |:-|:-:|
 |A persona possui identidade (Nome, Foto, Profissão, Educação) ?|☑|
-|A persona está no mesmo padrão que as outras personas ?☑||
+|A persona está no mesmo padrão que as outras personas ?|☑|
 |A persona possui um objetivo ?|☑|
 |A história da persona está coerente com o seu objetivo ?|☑|
  

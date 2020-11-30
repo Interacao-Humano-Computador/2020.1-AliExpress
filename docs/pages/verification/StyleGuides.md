@@ -20,7 +20,7 @@ Este documento tem como intuito demonstrar, utilizando do processo de verificaç
 |O documento apresenta uma tipografia bem como uma breve descrição sobre?|☑|
 |O documento apresenta um versionamento?|☑|
 |As escolhas realizadas no guia de estilo, apresentam uma justificativa?|☑|
-|Total:|100%|
+|**Total**|100%|
  
  
 ### Resultados da verificação

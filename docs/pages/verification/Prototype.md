@@ -21,7 +21,7 @@ Este documento tem como intuito demonstrar, utilizando do processo de verificaç
 |Foi realizado um protótipo de baixa fidelidade?|☑|
 |Foi realizado um protótipo de alta fidelidade?|☑|
 |Os protótipos foram avaliados?|☑|
-|Total:|80%|
+|**Total**|80%|
  
 ---
  
@@ -33,7 +33,7 @@ Este documento tem como intuito demonstrar, utilizando do processo de verificaç
 |O protótipo de baixa fidelidade soluciona problemas de interface encontrados no site trabalhado?|☑|
 |O protótipo de baixa fidelidade foi avaliado por usuários reais?|☑|
 |Foram encontrados problemas no protótipo e baixa fidelidade?|☑|
-|Total:|100%|
+|**Total**|100%|
  
 ### Protótipos como um todo
  
@@ -44,7 +44,7 @@ Este documento tem como intuito demonstrar, utilizando do processo de verificaç
 |O protótipo de alta fidelidade é funcional?|☑|
 |O protótipo de alta fidelidade foi avaliado por usuários reais?|☑|
 |Foram encontrados problemas no protótipo e alta fidelidade?|☑|
-|Total:|100%|
+|**Total**|100%|
  
  
  

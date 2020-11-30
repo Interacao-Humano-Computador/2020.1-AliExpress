@@ -26,6 +26,16 @@
   * [Alta Fidelidade](/pages/prototypes/finalPrototype/finalPrototype)
   * [Baixa Fidelidade](/pages/prototypes/lowPrototype/lowPrototype)
   
+* Verificação
+  * [Analise de Tarefas](/pages/verification/TaskAnalysis)
+  * [Guia de Estilos](/pages/verification/StyleGuides)
+  * [Metas de Usabilidade](/pages/verification/UsabilityGoals)
+  * [Personas](/pages/verification/Personas)
+  * [Protótipos](/pages/verification/Prototype)
+  * [Teste Piloto](/pages/verification/PilotTest)
+  * [Storyboard](/pages/verification/Storyboard)
+  
+  
 ---
 
 * Sprints

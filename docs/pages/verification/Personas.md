@@ -42,8 +42,18 @@ Este documento tem como intuito demonstrar, utilizando do processo de verificaç
 |A persona possui um objetivo ?|☑|
 |A história da persona está coerente com o seu objetivo ?|☑|
  
+
+[P4 - Rogério ](https://interacao-humano-computador.github.io/2020.1-AliExpress/#/pages/requirementsAnalysis/personas/personas?id=persona-4-rog%c3%a9rio)
  
-[P4 - Jonas ](https://interacao-humano-computador.github.io/2020.1-AliExpress/#/pages/requirementsAnalysis/personas/personas?id=persona-4-jonas)
+|||
+|:-|:-:|
+|A persona possui identidade (Nome, Foto, Profissão, Educação) ?|☑|
+|A persona está no mesmo padrão que as outras personas ?|☑|
+|A persona possui um objetivo ?|☑|
+|A história da persona está coerente com o seu objetivo ?|☑|
+ 
+ 
+[P5 - Jonas ](https://interacao-humano-computador.github.io/2020.1-AliExpress/#/pages/requirementsAnalysis/personas/personas?id=persona-5-jonas)
  
 |||
 |:-|:-:|
@@ -70,9 +80,11 @@ Este documento tem como intuito demonstrar, utilizando do processo de verificaç
 |[P1 - Ricardo](https://interacao-humano-computador.github.io/2020.1-AliExpress/#/pages/requirementsAnalysis/personas/personas?id=persona-1-ricardo)|100%|
 |[P2 - Aliyah](https://interacao-humano-computador.github.io/2020.1-AliExpress/#/pages/requirementsAnalysis/personas/personas?id=persona-2-aliyah)|100%|
 |[P3 - Andersson](https://interacao-humano-computador.github.io/2020.1-AliExpress/#/pages/requirementsAnalysis/personas/personas?id=persona-3-andersson)|100%|
-|[P4 - Jonas ](https://interacao-humano-computador.github.io/2020.1-AliExpress/#/pages/requirementsAnalysis/personas/personas?id=persona-4-jonas)|100%|
+|[P4 - Rogério ](https://interacao-humano-computador.github.io/2020.1-AliExpress/#/pages/requirementsAnalysis/personas/personas?id=persona-4-rog%c3%a9rio)|100%|
+|[P5 - Jonas ](https://interacao-humano-computador.github.io/2020.1-AliExpress/#/pages/requirementsAnalysis/personas/personas?id=persona-5-jonas)|100%|
  
 #### Resultados da verificação das personas
+
 - A personas cumprem com todas as especificações definidas. Porém , apesar de o objetivo do documento está junto de a metodologia, o mesmo não possui um tópico específico para objetivo.
  
  

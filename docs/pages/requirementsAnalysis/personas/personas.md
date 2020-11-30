@@ -30,7 +30,16 @@ As personas são formas de se identificar os usuários de um software, a partir 
 já que mesmo trabalhando poucas horas no dia, sendo pai solteiro tem que lidar com muitas responsabilidades de casa sozinho. Ele gosta de passar um tempo com o filho e navegar na internet para aprender sobre novas técnologias. Aos finais de semana dar um passeio ao ar livre para relaxar da correria do trabalho.  
 **Desafios:** Devido à falta de tempo sua salvação para as compras é poder analisar e comparar preços em sites na internet pois pode fazer isso de qualquer lugar quando sobra uma folga durante seu dia, assim ele economiza tempo de ter que ir até uma loja física. Ele procura sempre por sites seguros com boa reputação no feedback dos usuários e que seja de fácil acesso sem muitas complicações, com layouts intuitivos para poder pesquisar o produto que deseja além de opções variadas bons preços, forma de pagamento favorável e políticas de entregas justas(tempo, valor do frete, etc). Encontrou o AliExpress e inicialmente teve uma boa impressão com os preços e qualidade dos produtos que procurou em relação à outros sites.
 
-## Persona 4 - Jonas
+## Persona 4 - Rogério
+
+|Foto|Informações básicas|
+|:-|:-|
+|![Rogerio](./images/rogerio.jpg)| <ul><li><b>Nome:</b> Rogério Fernandes Brito</li><li><b>Idade:</b> 42 anos</li><li><b>Profissão:</b> Autonomo</li><li><b>Educação:</b> Ensino Médio Completo</li></ul> |
+
+**Objetivos:** Este é Rogério um adulto de 42 anos, mora com sua mãe e trabalha com vendas de produtos variados para decoração de interiores. Seus produtos já são anunciados no site AliExpress a alguns anos e lhe proporciona uma renda considerável mensal. Rogério é uma pessoa não muito calma mas se controla quando se trata de sua ansiedade para a chegada e envio das encomendas pelo correio. Seu dia-a-dia dependendo da demanda é bem corrido para organizar e encaminhar todos os produtos mas nas horas vagas gosta de passar um tempo com sua mãe vendo um bom filme.   
+**Desafios:** O trabalho como vendedor inicialmente foi um grande desafio, pois é necessário criar um ramo de clientes para que se tenha um bom retorno de seu investimento. Rogério conseguiu em seis meses uma clientela que gostou muito de seus artefatos de decoração e facilmente foi recomendado para os amigos. Assim atualmente tem uma boa avaliação no seu perfil que está em constante crescimento.
+
+## Persona 5 - Jonas
 
 |Foto|Informações básicas|
 |:-|:-|
@@ -39,7 +48,7 @@ já que mesmo trabalhando poucas horas no dia, sendo pai solteiro tem que lidar 
 **Objetivos:** Jonas é um analista de dados de uma franquia de fast-food e gosta muito de jogos eletrônicos como forma de lazer em seu tempo livre. Ele possui os mesmos equipamentos de console e periféricos a 3 anos. Ele está em busca de consoles de ultima geração, periféricos e peças do seu computador pessoal, para melhor desempenho e qualidade no seu lazer.<br>
 **Desafios:** Jonas já tem o costume de buscar sempre a tecnologia para ajudar em alguma tarefas cotidianas. Então ao invés de sair de casa e ir pesquisar valores e qualidade de equipamentos em lojas físicas, ele optou por fazer isso pela a internet do conforto da sua casa. Ele se encontra com o site do AliExpress que faz exatamente o que ele busca, tendo interface para pesquisar os valores e as expecificações da oferta.
 
- *Imagens meramente ilustrativas.
+ *Imagens meramente ilustrativas. Fonte: Google Imagens.
 
 ---
 
@@ -48,4 +57,7 @@ já que mesmo trabalhando poucas horas no dia, sendo pai solteiro tem que lidar 
 |Data|Versão|Descrição|Autor|
 |:-:|:-:|:-:|:-:|
 |03/10/2020|0.1|Criação do documento| Pedro Vítor de Salles Cella|
-|03/10/2020|0.2|Adição de Personas| Ailamar Alves Guimarães, Matheus Amaral Moreira|
+|03/10/2020|0.2|Adição das Personas 1 e 2| Pedro Vítor de Salles Cella|
+|04/10/2020|0.3|Adição da Persona 3 | Ailamar Alves Guimarães|
+|04/10/2020|0.4|Adição da Persona 5 | Matheus Amaral Moreira|
+|05/11/2020|0.5|Adição da Persona 4 | Ailamar Alves Guimarães|

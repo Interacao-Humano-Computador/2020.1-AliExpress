@@ -80,7 +80,7 @@ Este documento tem como intuito demonstrar, utilizando do processo de verificaç
  
 |||
 |:-|:-:|
-|[Documento como um todo](https://interacao-humano-computador.github.io/2020.1-AliExpress/#/pages/requirementsAnalysis/personas/personas?id=personas)|?%|
+|[Documento como um todo](https://interacao-humano-computador.github.io/2020.1-AliExpress/#/pages/requirementsAnalysis/personas/personas?id=personas)|75%|
  
  
 #### Resultados da verificação das personas

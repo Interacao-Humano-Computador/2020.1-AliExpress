@@ -12,18 +12,11 @@ Essa página da tem como objetivo, unicamente, informar ao leitor as ferramentas
 ![Teams Logo](./Images/TeamsLogo.png ':size=130') | [**Microsoft Teams:**](https://www.microsoft.com/pt-br/microsoft-365/microsoft-teams/free) é utilizado para ensaios e gravação das apresentações ou alguma reunião que não for possível de ser feita pelo Discord.
 <br/>
 
-## Gerenciamento
-
-|    |    |
----- |:--- 
-![Zenhub Logo](./Images/zenhub-black.png ':size=140') | [**Zenhub:**](https://www.zenhub.com/) serve para se ter um maior controle das issues e poder conseguir visualizar o trabalho feito durante o semestre por diversos gráficos que o programa fornece à equipe.
-<br/>
-
-## Versionamento
+## Versionamento & Gerenciamento
 
 |    |    |
 ---- |:---
-![gitHub logo](./Images/gitHub.png ':size=150') | [**GitHub:**](https://github.com/) está sendo utilizado para o versionamento e backup de nossa documentação, além de que também é utilizado para a hospedagem da atual Wiki.
+![gitHub logo](./Images/gitHub.png ':size=150') | [**GitHub:**](https://github.com/) está sendo utilizado para o versionamento, backup de nossa documentação e gerenciamento, além de que também é utilizado para a hospedagem da atual Wiki.
 <br/>
 
 ## Desenvolvimento
@@ -40,7 +33,7 @@ Essa página da tem como objetivo, unicamente, informar ao leitor as ferramentas
 
 |    |    |
 ---- |:---
-![Adobe XD](./Images/xdLogo.png ':size=100') | [**Adobe XD:**](https://www.adobe.com/products/xd.html) esse programa será utilizado para a prototipagem de alta fidelidade do site.
+![Figma](./Images/figma.png ':size=100') | [**Figma:**](https://www.figma.com/files/recent) esse programa será utilizado para a prototipagem de alta fidelidade do site.
 <br/>
 
 ---

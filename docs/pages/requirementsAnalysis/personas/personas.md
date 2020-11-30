@@ -34,7 +34,7 @@ já que mesmo trabalhando poucas horas no dia, sendo pai solteiro tem que lidar 
 
 |Foto|Informações básicas|
 |:-|:-|
-|![Rogerio](./images/rogerio.jpg)| <ul><li><b>Nome:</b> Rogério Fernandes Brito</li><li><b>Idade:</b> 42 anos</li><li><b>Profissão:</b> Autonomo</li><li><b>Educação:</b> Ensino Médio Completo</li></ul> |
+|![Rogerio](./images/rogerio.jpg ':size=200')| <ul><li><b>Nome:</b> Rogério Fernandes Brito</li><li><b>Idade:</b> 42 anos</li><li><b>Profissão:</b> Autonomo</li><li><b>Educação:</b> Ensino Médio Completo</li></ul> |
 
 **Objetivos:** Este é Rogério um adulto de 42 anos, mora com sua mãe e trabalha com vendas de produtos variados para decoração de interiores. Seus produtos já são anunciados no site AliExpress a alguns anos e lhe proporciona uma renda considerável mensal. Rogério é uma pessoa não muito calma mas se controla quando se trata de sua ansiedade para a chegada e envio das encomendas pelo correio. Seu dia-a-dia dependendo da demanda é bem corrido para organizar e encaminhar todos os produtos mas nas horas vagas gosta de passar um tempo com sua mãe vendo um bom filme.   
 **Desafios:** O trabalho como vendedor inicialmente foi um grande desafio, pois é necessário criar um ramo de clientes para que se tenha um bom retorno de seu investimento. Rogério conseguiu em seis meses uma clientela que gostou muito de seus artefatos de decoração e facilmente foi recomendado para os amigos. Assim atualmente tem uma boa avaliação no seu perfil que está em constante crescimento.
